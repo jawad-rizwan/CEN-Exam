@@ -12,7 +12,8 @@
       "D": "All of the above",
       "E": "(a) and (b) above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L78-002",
@@ -27,7 +28,8 @@
       "D": "Ego of the consulting engineer",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-003",
@@ -42,7 +44,8 @@
       "D": "Ontario",
       "E": "Nova Scotia"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-004",
@@ -57,7 +60,8 @@
       "D": "Graduation from a science program",
       "E": "Graduation from a technologist program"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L78-005",
@@ -72,7 +76,8 @@
       "D": "Be of good character and knowledge of professional practice and ethics",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-006",
@@ -87,7 +92,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-007",
@@ -102,7 +108,8 @@
       "D": "New licenses are only issued after a licensed engineer retires",
       "E": "There are limited number of engineer licenses"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L78-008",
@@ -117,7 +124,8 @@
       "D": "(b) and (c)",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L78-009",
@@ -132,7 +140,8 @@
       "D": "You must be a member of a technical society to be a licensed professional engineer",
       "E": "(a) and (b) above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L78-010",
@@ -147,7 +156,8 @@
       "D": "(b) and (c)",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-011",
@@ -162,7 +172,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-012",
@@ -177,7 +188,8 @@
       "D": "(a) and (c)",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-013",
@@ -192,7 +204,8 @@
       "D": "(a) and (b)",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-014",
@@ -207,7 +220,8 @@
       "D": "All of the above",
       "E": "(a) and (b) above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-015",
@@ -222,7 +236,8 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-016",
@@ -237,7 +252,8 @@
       "D": "Maintain current knowledge of your discipline",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-017",
@@ -252,7 +268,8 @@
       "D": "No, unless an employer is willing to pay for the engineer to take the university courses while employed",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L78-018",
@@ -267,7 +284,8 @@
       "D": "When an employer does not pay for the engineer to take university courses",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-019",
@@ -282,7 +300,8 @@
       "D": "Participate in conferences and workshops in your area of discipline",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-020",
@@ -297,7 +316,8 @@
       "D": "Never have code of ethics because such codes are responsibility of the provincial and territorial associations",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L78-021",
@@ -312,7 +332,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-022",
@@ -327,7 +348,8 @@
       "D": "Providing free services for a charity",
       "E": "All of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L78-023",
@@ -342,7 +364,8 @@
       "D": "Is only a matter relating to the integrity of the profession, and does not in general constitute a threat to the public welfare",
       "E": "None of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L78-024",
@@ -357,7 +380,8 @@
       "D": "(a) and (b) above",
       "E": "(b) and (c) above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-025",
@@ -372,7 +396,8 @@
       "D": "(a) and (b) above",
       "E": "(b) and (c) above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-026",
@@ -387,7 +412,8 @@
       "D": "There are no differences in the two codes of ethics",
       "E": "(b) and (c)"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L78-027",
@@ -402,7 +428,8 @@
       "D": "Both relate to licensing",
       "E": "(a), (b) and (d)"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L78-028",
@@ -417,7 +444,8 @@
       "D": "(a) and (b)",
       "E": "(a) and (c)"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L78-029",
@@ -432,7 +460,8 @@
       "D": "Industry associations",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-030",
@@ -447,7 +476,8 @@
       "D": "All of the above",
       "E": "(a) and (b) above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-031",
@@ -462,7 +492,8 @@
       "D": "Appear as an expert witness in court in any area of engineering",
       "E": "All of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L78-032",
@@ -477,7 +508,8 @@
       "D": "(a) and (c)",
       "E": "All of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L78-033",
@@ -492,7 +524,8 @@
       "D": "Duty to suppliers of raw materials used in your company",
       "E": "Duty to your manager"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L78-034",
@@ -506,7 +539,8 @@
       "C": "Responsibility to the public",
       "D": "High salary"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-035",
@@ -521,7 +555,8 @@
       "D": "If they work during their free time",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-036",
@@ -536,7 +571,8 @@
       "D": "(a) and (b)",
       "E": "(a) and (c)"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-037",
@@ -551,7 +587,8 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-038",
@@ -566,7 +603,8 @@
       "D": "(a) and (c)",
       "E": "None of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L78-039",
@@ -581,7 +619,8 @@
       "D": "Accepting a coffee mug with one of your suppliers' business logo",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L78-040",
@@ -596,7 +635,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-041",
@@ -611,7 +651,8 @@
       "D": "(a) and (c)",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L78-042",
@@ -626,7 +667,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-043",
@@ -641,7 +683,8 @@
       "D": "(a) and (b)",
       "E": "(a) and (c)"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L78-044",
@@ -656,7 +699,8 @@
       "D": "(a) and (b)",
       "E": "(a) and (c)"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-045",
@@ -671,7 +715,8 @@
       "D": "(b) and (c) above",
       "E": "All of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L78-046",
@@ -686,7 +731,8 @@
       "D": "You have a fundamental right to life, dignity, liberty",
       "E": "PEO code of ethics"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L78-047",
@@ -701,7 +747,8 @@
       "D": "You have a fundamental right to life, dignity, liberty",
       "E": "PEO code of ethics"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-048",
@@ -716,7 +763,8 @@
       "D": "You have a fundamental right to life, dignity, liberty",
       "E": "PEO code of ethics"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L78-049",
@@ -731,7 +779,8 @@
       "D": "Aristotle's Virtue Ethics",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L78-050",
@@ -746,7 +795,8 @@
       "D": "Aristotle's Virtue Ethics",
       "E": "None of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L78-051",
@@ -761,7 +811,8 @@
       "D": "Aristotle's Virtue Ethics",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-052",
@@ -776,7 +827,8 @@
       "D": "The selection of a supplier of pressure relief valves, where the engineer making the decision does so following precisely the approved procedures and criteria stipulated by the engineer's company",
       "E": "(b) and (c)"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-053",
@@ -791,7 +843,8 @@
       "D": "There are no differences in the two codes of ethics",
       "E": "(b) and (c)"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L78-054",
@@ -806,7 +859,8 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-055",
@@ -821,7 +875,8 @@
       "D": "Duty to suppliers of raw materials used in your company",
       "E": "Duty to your manager"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L78-056",
@@ -836,7 +891,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L78-057",
@@ -851,7 +907,8 @@
       "D": "More ethical dilemmas than other engineers who work at her past company as engineers",
       "E": "(b) and (d)"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-058",
@@ -866,7 +923,8 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-059",
@@ -881,7 +939,8 @@
       "D": "Is below Engineer A's duty to protect the public safety",
       "E": "(b) and (d)"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-060",
@@ -896,7 +955,8 @@
       "D": "(a) and (c)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-061",
@@ -911,7 +971,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L78-062",
@@ -926,7 +987,8 @@
       "D": "Deaths from natural disaster, especially in developing countries",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-063",
@@ -941,7 +1003,8 @@
       "D": "An engineer should know what the rights and risks of harm to all of his or her stakeholders are",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L78-064",
@@ -953,7 +1016,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L78-065",
@@ -968,7 +1032,8 @@
       "D": "(b) and (c)",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": "L78-grp-1"
   },
   {
     "id": "L78-066",
@@ -983,7 +1048,8 @@
       "D": "(a) and (b)",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": "L78-grp-1"
   },
   {
     "id": "L78-067",
@@ -998,7 +1064,8 @@
       "D": "(b) and (c)",
       "E": "None of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": "L78-grp-1"
   },
   {
     "id": "L78-068",
@@ -1013,7 +1080,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": "L78-grp-1"
   },
   {
     "id": "L78-069",
@@ -1028,323 +1096,11 @@
       "D": "(b) and (c)",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": "L78-grp-1"
   },
   {
     "id": "L78-070",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 26 to 30 Read the following scenario and answer the five questions that follow] If you are a principal in the Allied Corporation, you should",
-    "choices": {
-      "A": "Express your concerns to all stakeholders involved in the proposal process, with the request that assurances be made that the safety of the public will not be jeopardized",
-      "B": "Quit your job and try to get one with the O'Leary Company",
-      "C": "Launch a lawsuit against Mikie Incorporated for putting forward such a high-cost proposal",
-      "D": "All of the above",
-      "E": "None of the above"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "L78-071",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 26 to 30 Read the following scenario and answer the five questions that follow] If, following the decision, the Allied Corporation and Mikie Incorporated file a protest with the agency and call for a public hearing based on the ideas expressed above, how would you respond if you were a principal with the O'Leary Company?",
-    "choices": {
-      "A": "Explain how the qualifications of your company were vetted by the provincial agency and deemed acceptable for inclusion in the three finalists",
-      "B": "Explain that the costs of your company's bid were kept as low as reasonably possible because the provincial agency stated cost would be a significant factor",
-      "C": "Explain how the project can be done safely and to proper engineering standards for the cost your company put forward in its bid",
-      "D": "(a) and (c)",
-      "E": "All of the above"
-    },
-    "answer": "E"
-  },
-  {
-    "id": "L78-072",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 26 to 30 Read the following scenario and answer the five questions that follow] Should the provincial agency have accepted this bid after maintaining that cost would not be the overriding factor?",
-    "choices": {
-      "A": "Yes, if all relevant factors were considered carefully and fairly in picking the winning bid",
-      "B": "Yes, if the bid was the best in overall terms",
-      "C": "No, because the bid had the lowest cost",
-      "D": "No, even if the bid was the best in overall terms because it nonetheless had the lowest cost",
-      "E": "(a) and (b)"
-    },
-    "answer": "E"
-  },
-  {
-    "id": "L78-073",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 26 to 30 Read the following scenario and answer the five questions that follow] The stipulation by the provincial agency that cost will be a significant factor in evaluating bids but not necessarily the deciding factor",
-    "choices": {
-      "A": "Is unethical because it encourages cutting corners in designs to achieve the lowest bid",
-      "B": "Is ethical because it encourages containing costs in designs to achieve a low bid while still meeting the design objectives",
-      "C": "Means all the bidding companies can win the competition if they can achieve the lowest cost bid",
-      "D": "Puts the safety of the public at risk",
-      "E": "All of the above"
-    },
-    "answer": "E"
-  },
-  {
-    "id": "L78-074",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 26 to 30 Read the following scenario and answer the five questions that follow] What information would be relevant to your ethics assessment of this case?",
-    "choices": {
-      "A": "The engineering competency of the bidding firms",
-      "B": "The salaries paid to the presidents of the bidding firms over the last year",
-      "C": "How public safety is addressed in the proposals",
-      "D": "(a) and (c)",
-      "E": "All of the above"
-    },
-    "answer": "D"
-  },
-  {
-    "id": "L78-075",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 31 to 35 Read the following scenario and answer the five questions that follow] Engineer Alpha can",
-    "choices": {
-      "A": "Accept the trip, since he selected the valves without knowledge of this invitation",
-      "B": "Contact his supervisor and ask for permission in accepting the trip",
-      "C": "Not accept such a big gift",
-      "D": "Be perceived publicly as not behaving ethically if he accepts the gift",
-      "E": "Both (c) and (d)"
-    },
-    "answer": "E"
-  },
-  {
-    "id": "L78-076",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 31 to 35 Read the following scenario and answer the five questions that follow] If Engineer Alpha accepts the trip",
-    "choices": {
-      "A": "His behavior is unlawful and disgraceful",
-      "B": "He is guilty of professional misconduct",
-      "C": "He is endangering the public",
-      "D": "He may be in breach of the Code of Ethics",
-      "E": "None of the above"
-    },
-    "answer": "D"
-  },
-  {
-    "id": "L78-077",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 31 to 35 Read the following scenario and answer the five questions that follow] If Engineer Alpha is taking the trip, he is",
-    "choices": {
-      "A": "Acting as a faithful agent for his employer",
-      "B": "Acting in the public interest",
-      "C": "Acting in his own interest",
-      "D": "In a situation that may be perceived as a conflict of interest",
-      "E": "Both (c) and (d)"
-    },
-    "answer": "E"
-  },
-  {
-    "id": "L78-078",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 31 to 35 Read the following scenario and answer the five questions that follow] In judging the above case, which Code of Ethics paragraphs apply?",
-    "choices": {
-      "A": "4",
-      "B": "7.i",
-      "C": "7.iv",
-      "D": "(a) and (c)",
-      "E": "8"
-    },
-    "answer": "D"
-  },
-  {
-    "id": "L78-079",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 31 to 35 Read the following scenario and answer the five questions that follow] If the last paragraph of the above case study read as follows: after a large number of valves had been specified and purchased, the salesperson of the valve manufacturer visited Alpha and invited him to participate in a seminar describing new improved products. The seminar would take place at a hotel in town and would be followed by a cocktail reception and dinner. Alpha attends the seminar. His behavior is",
-    "choices": {
-      "A": "Unethical, because by attending the free seminar he will recommend the product",
-      "B": "Not a compromise of the engineer's independent professional judgment",
-      "C": "Ethical, because the cocktail reception and dinner are a courtesy provided to engineers in the area",
-      "D": "An opportunity to become educated on a particular topic",
-      "E": "(b), (c), and (d)"
-    },
-    "answer": "E"
-  },
-  {
-    "id": "L78-080",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 36 to 40 Read the following scenario and answer the five questions that follow] Omega has an ethical dilemma relating to the following paragraphs of the Code of Ethics",
-    "choices": {
-      "A": "1.i",
-      "B": "1.iii",
-      "C": "3",
-      "D": "7.i",
-      "E": "All of the above"
-    },
-    "answer": "E"
-  },
-  {
-    "id": "L78-081",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 36 to 40 Read the following scenario and answer the five questions that follow] Omega is not pursuing the issue any further and ABC is producing a cheaper part. As the shipment is prepared to be sent to XYZ, Omega is asked to sign a report verifying that the specifications for the part have been met. Which one of the following actions does not violate the Code of Ethics?",
-    "choices": {
-      "A": "Omega decides that he will not sign the report, knowing that a cheaper part has been produced",
-      "B": "Omega signs the report at the instruction of his boss Sigma",
-      "C": "Omega signs the report and places an anonymous phone call to Good Engineering Company informing them about the changes",
-      "D": "Omega takes sick leave in order not to sign the report",
-      "E": "None of the above"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "L78-082",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 36 to 40 Read the following scenario and answer the five questions that follow] Omega refuses to sign the report. However, Sigma persuades another engineer, Theta, to sign the report. The cheaper parts are shipped to Good Engineering Company.",
-    "choices": {
-      "A": "ABC is committing fraud",
-      "B": "Both engineers Sigma and Theta are acting unethically",
-      "C": "Both engineers Sigma and Theta are breaking the law",
-      "D": "By acting in the interest of increasing profit illegally, ABC is jeopardizing its future",
-      "E": "All of the above"
-    },
-    "answer": "E"
-  },
-  {
-    "id": "L78-083",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 36 to 40 Read the following scenario and answer the five questions that follow] In judging the above case, which ethical theory would justify Omega's decision not to sign the report?",
-    "choices": {
-      "A": "Duty ethics",
-      "B": "Rights ethics",
-      "C": "Utilitarian ethics",
-      "D": "Virtue ethics",
-      "E": "All of the above"
-    },
-    "answer": "E"
-  },
-  {
-    "id": "L78-084",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 36 to 40 Read the following scenario and answer the five questions that follow] Replacing the metal used in fabrication of the parts with a cheaper alloy means that both ABC and its engineers",
-    "choices": {
-      "A": "May be vicariously liable",
-      "B": "Are committing fraud",
-      "C": "Are breaking the contract",
-      "D": "Are behaving unethically",
-      "E": "All of the above"
-    },
-    "answer": "E"
-  },
-  {
-    "id": "L78-085",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 41 to 46 Read the following scenario and answer the six questions that follow] When engineer Kappa checked the drawings for structural loadings",
-    "choices": {
-      "A": "He was correct to stamp all drawings",
-      "B": "He was supposed to check conformity to the Ontario Building Code",
-      "C": "He was responsible for all the information contained in the drawings",
-      "D": "Both (b) and (c)"
-    },
-    "answer": "D"
-  },
-  {
-    "id": "L78-086",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 41 to 46 Read the following scenario and answer the six questions that follow] The proposed building was never built",
-    "choices": {
-      "A": "This fact has no bearing when evaluating engineer Kappa's behavior",
-      "B": "If the building was not built, nobody is at fault",
-      "C": "Omicron was not qualified to check the plans",
-      "D": "None of the above"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "L78-087",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 41 to 46 Read the following scenario and answer the six questions that follow] Engineer Kappa and his company BCEC were specialized in structural engineering and had been paid to check the integrity of the structure. The structural drawings were correct and not in violation of the Ontario Building Code. The problems were with the other drawings. Using the professional engineer stamp on all drawings was in violation of the Code of Ethics, especially",
-    "choices": {
-      "A": "2.iii",
-      "B": "1.v",
-      "C": "4",
-      "D": "3",
-      "E": "7.iii"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "L78-088",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 41 to 46 Read the following scenario and answer the six questions that follow] What if engineer Kappa were diligent and had stamped only the structural drawings and had made a clear statement on all other drawings, such as plumbing and electrical, that only the structural checking was completed by him?",
-    "choices": {
-      "A": "Would not have made any difference in judging the case",
-      "B": "Would satisfy that he was doing his duty to the best of his knowledge in structural engineering",
-      "C": "Would be judged as ethical behavior",
-      "D": "Both (b) and (c)",
-      "E": "None of the above"
-    },
-    "answer": "D"
-  },
-  {
-    "id": "L78-089",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 41 to 46 Read the following scenario and answer the six questions that follow] If the building had been built and the drawings, stamped by engineer Kappa, submitted in construction",
-    "choices": {
-      "A": "Public safety might have been endangered",
-      "B": "The owner of the building would have been in violation of the Ontario Building Code",
-      "C": "Liability in law might have occurred",
-      "D": "All of the above",
-      "E": "None of the above"
-    },
-    "answer": "D"
-  },
-  {
-    "id": "L78-090",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "[Scenario for Questions 41 to 46 Read the following scenario and answer the six questions that follow] The drawings were completed by a foreign firm, for example from the USA",
-    "choices": {
-      "A": "The laws in Canada prohibit the use of foreign firms, so the project must be done by a Canadian firm",
-      "B": "The drawings must conform with the rules and regulations in the jurisdiction for which they are intended to be used",
-      "C": "Engineer Kappa was not allowed to seal drawings done by a foreign firm",
-      "D": "A professional engineer's seal on a drawing implies that the person applying it has checked the drawing for conformity with local statutes and regulations",
-      "E": "Both (b) and (d)"
-    },
-    "answer": "E"
-  },
-  {
-    "id": "L78-091",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1353,10 +1109,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-092",
+    "id": "L78-071",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1365,10 +1122,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
-    "id": "L78-093",
+    "id": "L78-072",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1377,10 +1135,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-094",
+    "id": "L78-073",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1389,10 +1148,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-095",
+    "id": "L78-074",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1401,10 +1161,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-096",
+    "id": "L78-075",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1416,10 +1177,11 @@
       "D": "(a) and (b)",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
-    "id": "L78-097",
+    "id": "L78-076",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1431,10 +1193,11 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
-    "id": "L78-098",
+    "id": "L78-077",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1446,10 +1209,11 @@
       "D": "(a) and (b)",
       "E": "(b) and (c)"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
-    "id": "L78-099",
+    "id": "L78-078",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1461,10 +1225,11 @@
       "D": "(a) and (c)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
-    "id": "L78-100",
+    "id": "L78-079",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1476,10 +1241,11 @@
       "D": "(a) and (b)",
       "E": "(a) and (c)"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-101",
+    "id": "L78-080",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1491,10 +1257,11 @@
       "D": "(b) and (c)",
       "E": "(a) and (b)"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
-    "id": "L78-102",
+    "id": "L78-081",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1506,10 +1273,11 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
-    "id": "L78-103",
+    "id": "L78-082",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1521,10 +1289,11 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
-    "id": "L78-104",
+    "id": "L78-083",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1536,10 +1305,11 @@
       "D": "(a) and (c)",
       "E": "All of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
-    "id": "L78-105",
+    "id": "L78-084",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1551,10 +1321,11 @@
       "D": "Both relate to licensing",
       "E": "(a), (b) and (d)"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-106",
+    "id": "L78-085",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1566,10 +1337,11 @@
       "D": "(a) and (b)",
       "E": "(a) and (c)"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
-    "id": "L78-107",
+    "id": "L78-086",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1581,10 +1353,11 @@
       "D": "Not point out technical errors made by another engineer",
       "E": "All of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
-    "id": "L78-108",
+    "id": "L78-087",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1596,10 +1369,11 @@
       "D": "Point out technical errors of another engineer",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
-    "id": "L78-109",
+    "id": "L78-088",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1608,10 +1382,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-110",
+    "id": "L78-089",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1620,10 +1395,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
-    "id": "L78-111",
+    "id": "L78-090",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1632,10 +1408,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
-    "id": "L78-112",
+    "id": "L78-091",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1644,10 +1421,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-113",
+    "id": "L78-092",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1656,10 +1434,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-114",
+    "id": "L78-093",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1668,10 +1447,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-115",
+    "id": "L78-094",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1680,10 +1460,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
-    "id": "L78-116",
+    "id": "L78-095",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1692,10 +1473,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-117",
+    "id": "L78-096",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1704,10 +1486,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-118",
+    "id": "L78-097",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1716,10 +1499,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
-    "id": "L78-119",
+    "id": "L78-098",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1728,10 +1512,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
-    "id": "L78-120",
+    "id": "L78-099",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1742,10 +1527,11 @@
       "C": "Respecting the rights of your employees for equitable treatment unless forbidden by law",
       "D": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-121",
+    "id": "L78-100",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1754,10 +1540,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-122",
+    "id": "L78-101",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1769,10 +1556,11 @@
       "D": "It is in compliance with laws and is consistent with international norms of behavior",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
-    "id": "L78-123",
+    "id": "L78-102",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1784,10 +1572,11 @@
       "D": "Show that \"doing good\" and \"doing what is good for business\" can be the same thing",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
-    "id": "L78-124",
+    "id": "L78-103",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1796,10 +1585,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
-    "id": "L78-125",
+    "id": "L78-104",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1810,10 +1600,11 @@
       "C": "Indicates that our footprint exceeded the world's ability to regenerate by about 25 percent",
       "D": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
-    "id": "L78-126",
+    "id": "L78-105",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1825,10 +1616,11 @@
       "D": "An engineer should know what the rights and risks of harm to all of his or her stakeholders are",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
-    "id": "L78-127",
+    "id": "L78-106",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1837,10 +1629,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
-    "id": "L78-128",
+    "id": "L78-107",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1849,10 +1642,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-129",
+    "id": "L78-108",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1861,10 +1655,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-130",
+    "id": "L78-109",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1875,10 +1670,11 @@
       "C": "Allow observance of national or religious traditions and customs",
       "D": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
-    "id": "L78-131",
+    "id": "L78-110",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1887,10 +1683,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-132",
+    "id": "L78-111",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1899,10 +1696,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-133",
+    "id": "L78-112",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1911,10 +1709,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
-    "id": "L78-134",
+    "id": "L78-113",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1923,10 +1722,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-135",
+    "id": "L78-114",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1938,10 +1738,11 @@
       "D": "The engineer should seek to influence relevant organizations and authorities to remedy such conflicts",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
-    "id": "L78-136",
+    "id": "L78-115",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1950,10 +1751,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-137",
+    "id": "L78-116",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1962,10 +1764,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-138",
+    "id": "L78-117",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1974,10 +1777,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-139",
+    "id": "L78-118",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1986,10 +1790,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-140",
+    "id": "L78-119",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1998,10 +1803,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-141",
+    "id": "L78-120",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -2010,10 +1816,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
-    "id": "L78-142",
+    "id": "L78-121",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -2022,10 +1829,11 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-143",
+    "id": "L78-122",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -2037,10 +1845,11 @@
       "D": "Respect for diversity",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
-    "id": "L78-144",
+    "id": "L78-123",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -2052,10 +1861,11 @@
       "D": "It helps you find the guilty party when something goes wrong",
       "E": "All of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
-    "id": "L78-145",
+    "id": "L78-124",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -2067,10 +1877,11 @@
       "D": "Sustainable development is about economic growth at the expense of the ecological system",
       "E": "Sustainable development is about balance between economic growth and the depletion of irreplaceable resources"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
-    "id": "L78-146",
+    "id": "L78-125",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -2081,10 +1892,11 @@
       "C": "Be consistent with and not in conflict with existing documents, international treaties, conventions, and ISO standards",
       "D": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
-    "id": "L78-147",
+    "id": "L78-126",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -2095,7 +1907,8 @@
       "C": "Human rights violations by individuals, families, corporations, and civil society organizations",
       "D": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-001",
@@ -2110,7 +1923,8 @@
       "D": "There are no differences in the two codes of ethics",
       "E": "(b) and (c)"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L910-002",
@@ -2125,7 +1939,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L910-003",
@@ -2140,7 +1955,8 @@
       "D": "Both relate to licensing",
       "E": "(a), (b) and (d)"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L910-004",
@@ -2155,7 +1971,8 @@
       "D": "Duty to suppliers of raw materials used in your company",
       "E": "Duty to your manager"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L910-005",
@@ -2170,7 +1987,8 @@
       "D": "Not point out technical errors made by another engineer",
       "E": "All of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L910-006",
@@ -2185,7 +2003,8 @@
       "D": "Point out technical errors of another engineer",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L910-007",
@@ -2200,7 +2019,8 @@
       "D": "Spend little time dealing with people and the issues and concerns that they have",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L910-008",
@@ -2215,7 +2035,8 @@
       "D": "Spend little time dealing with decisions involving human resources",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L910-009",
@@ -2230,7 +2051,8 @@
       "D": "(b) and (c)",
       "E": "(a) and (b)"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-010",
@@ -2245,7 +2067,8 @@
       "D": "(b) and (c)",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L910-011",
@@ -2260,7 +2083,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-012",
@@ -2275,7 +2099,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L910-013",
@@ -2290,7 +2115,8 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L910-014",
@@ -2305,7 +2131,8 @@
       "D": "(a) and (c)",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L910-015",
@@ -2320,7 +2147,8 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-016",
@@ -2335,7 +2163,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L910-017",
@@ -2350,7 +2179,8 @@
       "D": "(a) and (b)",
       "E": "None of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L910-018",
@@ -2364,7 +2194,8 @@
       "C": "Speak in favor of the development and preface your statement by identifying yourself as an engineer whose opinion is supported by engineering analysis, but without identifying your affiliation with XYZ",
       "D": "Speak in favor of the development and preface your statement by identifying your affiliation with XYZ, also stating you are exercising your right as a citizen"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-019",
@@ -2376,7 +2207,8 @@
       "A": "Yes",
       "B": "No"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L910-020",
@@ -2391,7 +2223,8 @@
       "D": "Accepting a coffee mug with one of your suppliers business logo",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L910-021",
@@ -2406,7 +2239,8 @@
       "D": "(a) and (b)",
       "E": "(a) and (c)"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-022",
@@ -2421,7 +2255,8 @@
       "D": "More ethical dilemmas than other engineers who work at her past company as engineers",
       "E": "(b) and (d)"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L910-023",
@@ -2436,7 +2271,8 @@
       "D": "(a) and (c)",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-024",
@@ -2451,7 +2287,8 @@
       "D": "(a) and (b)",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L910-025",
@@ -2466,7 +2303,8 @@
       "D": "All of the above",
       "E": "(a) and (b) above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-026",
@@ -2481,7 +2319,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L910-027",
@@ -2496,7 +2335,8 @@
       "D": "Advertising that seeks to increase business opportunities by providing abundant factual information on the company's experiences and qualifications",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-028",
@@ -2511,7 +2351,8 @@
       "D": "(a) and (c)",
       "E": "All of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L910-029",
@@ -2526,7 +2367,8 @@
       "D": "(a) and (b)",
       "E": "(a) and (c)"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-030",
@@ -2541,7 +2383,8 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-031",
@@ -2555,7 +2398,8 @@
       "C": "Mention in your talk that the mathematical modeling was carried out by Jim",
       "D": "Add the statement \"mathematical modeling by Jim\" in the slide"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-032",
@@ -2570,7 +2414,8 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-033",
@@ -2585,7 +2430,8 @@
       "D": "(a) and (c)",
       "E": "None of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L910-034",
@@ -2600,7 +2446,8 @@
       "D": "The number of people in the general population who may lose money as a consequence of your decision",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L910-035",
@@ -2615,7 +2462,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L910-036",
@@ -2630,7 +2478,8 @@
       "D": "Maintain current knowledge of your discipline",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L910-037",
@@ -2644,7 +2493,8 @@
       "C": "Self-regulation",
       "D": "High salary"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-001",
@@ -2656,7 +2506,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-002",
@@ -2668,7 +2519,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-003",
@@ -2680,7 +2532,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-004",
@@ -2692,7 +2545,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-005",
@@ -2704,7 +2558,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-006",
@@ -2716,7 +2571,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-007",
@@ -2728,7 +2584,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-008",
@@ -2740,7 +2597,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-009",
@@ -2752,7 +2610,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-010",
@@ -2764,7 +2623,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-011",
@@ -2776,7 +2636,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-012",
@@ -2788,7 +2649,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-013",
@@ -2800,7 +2662,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-014",
@@ -2812,7 +2675,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-015",
@@ -2824,7 +2688,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-016",
@@ -2836,7 +2701,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-017",
@@ -2848,7 +2714,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-018",
@@ -2860,7 +2727,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-019",
@@ -2872,7 +2740,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-020",
@@ -2884,7 +2753,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-021",
@@ -2896,7 +2766,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-022",
@@ -2908,7 +2779,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-023",
@@ -2920,7 +2792,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-024",
@@ -2932,7 +2805,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-025",
@@ -2947,7 +2821,8 @@
       "D": "Sustainable development is about economic growth that does not destroy that ecological system",
       "E": "Sustainable development is about economic growth that helps to reduce gross social inequalities"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-026",
@@ -2962,7 +2837,8 @@
       "D": "All of the above",
       "E": "Only (a) and (c)"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-027",
@@ -2976,7 +2852,8 @@
       "C": "The continual improvement of customer and stakeholder satisfaction",
       "D": "Providing industrialized countries with non-tariff trade barriers to import from developing countries"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-028",
@@ -2990,7 +2867,8 @@
       "C": "To ensure money and resources are used effectively and efficiently",
       "D": "To ensure nothing important is forgotten"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-029",
@@ -3005,7 +2883,8 @@
       "D": "Suppliers",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-030",
@@ -3020,7 +2899,8 @@
       "D": "Providing necessary resources to facilitate the learning process",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-031",
@@ -3035,7 +2915,8 @@
       "D": "Social, economic and cultural values",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-032",
@@ -3050,7 +2931,8 @@
       "D": "A reduction in possible liability and improvement in confidence, along with positive bottom line",
       "E": "To obtain a certificate confirming conformance to ISO 14001"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-033",
@@ -3062,7 +2944,8 @@
       "A": "All of the impacts they have on the environment",
       "B": "Only the significant impacts they have on the environment"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-034",
@@ -3076,7 +2959,8 @@
       "C": "Noise",
       "D": "Landfill"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-035",
@@ -3091,7 +2975,8 @@
       "D": "Fire",
       "E": "Temperature excursions"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-036",
@@ -3106,7 +2991,8 @@
       "D": "No, unless an employer is willing to pay for the engineer to take the university courses while employed",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-037",
@@ -3121,7 +3007,8 @@
       "D": "When an employer does not pay for the engineer to take university courses",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-038",
@@ -3136,7 +3023,8 @@
       "D": "Is only a matter relating to the integrity of the profession, and does not in general constitute a threat to the public welfare",
       "E": "None of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L1112-039",
@@ -3151,7 +3039,8 @@
       "D": "(a) and (c)",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-040",
@@ -3166,7 +3055,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-041",
@@ -3181,7 +3071,8 @@
       "D": "(a) and (b)",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-042",
@@ -3196,7 +3087,8 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-043",
@@ -3211,7 +3103,8 @@
       "D": "Utilitarianism",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-044",
@@ -3226,7 +3119,8 @@
       "D": "Utilitarianism",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-045",
@@ -3241,7 +3135,8 @@
       "D": "Utilitarianism and duty ethics",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-046",
@@ -3256,7 +3151,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-047",
@@ -3271,7 +3167,8 @@
       "D": "(b) and (c)",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-048",
@@ -3286,7 +3183,8 @@
       "D": "Duty to oneself",
       "E": "Duty to co-workers"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L1112-049",
@@ -3301,7 +3199,8 @@
       "D": "Never have code of ethics because such codes are responsibility of the provincial and territorial associations",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-050",
@@ -3316,7 +3215,8 @@
       "D": "An understanding of the ethical, legal and societal ramifications of their activities",
       "E": "All of the above except (b)"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-051",
@@ -3331,7 +3231,8 @@
       "D": "Apathetic towards new ideas and improvement",
       "E": "None of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L1112-052",
@@ -3346,7 +3247,8 @@
       "D": "Apathetic towards new ideas and improvement",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-053",
@@ -3361,7 +3263,8 @@
       "D": "(a) and (b)",
       "E": "(a) and (c)"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L1112-054",
@@ -3376,7 +3279,8 @@
       "D": "(a) and (b)",
       "E": "(a) and (c)"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-055",
@@ -3391,7 +3295,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-056",
@@ -3406,7 +3311,8 @@
       "D": "New licenses are only issued after a licensed engineer retires",
       "E": "There are limited number of engineer licenses"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-057",
@@ -3421,7 +3327,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-058",
@@ -3436,7 +3343,8 @@
       "D": "(b) and (c)",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-059",
@@ -3451,7 +3359,8 @@
       "D": "You must be a member of a technical society to be a licensed professional engineer",
       "E": "(a) and (b) above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L1112-060",
@@ -3466,7 +3375,8 @@
       "D": "(b) and (c)",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-061",
@@ -3481,7 +3391,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-062",
@@ -3496,7 +3407,8 @@
       "D": "Matters involving the health of members of the public",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-063",
@@ -3511,7 +3423,8 @@
       "D": "Matters involving worker safety",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-064",
@@ -3526,7 +3439,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-065",
@@ -3541,7 +3455,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-066",
@@ -3556,7 +3471,8 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-067",
@@ -3571,7 +3487,8 @@
       "D": "Spend little time dealing with people and the issues and concerns that they have",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-068",
@@ -3586,7 +3503,8 @@
       "D": "Spend little time dealing with decisions involving human resources",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-069",
@@ -3601,7 +3519,8 @@
       "D": "(b) and (c)",
       "E": "(a) and (b)"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-070",
@@ -3616,7 +3535,8 @@
       "D": "(a) and (c)",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-071",
@@ -3631,7 +3551,8 @@
       "D": "(a) and (b)",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-072",
@@ -3646,7 +3567,8 @@
       "D": "(a) and (c)",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-073",
@@ -3661,7 +3583,8 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-074",
@@ -3676,7 +3599,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-075",
@@ -3691,7 +3615,8 @@
       "D": "Advertising that seeks to increase business opportunities by providing abundant factual information on the company's experiences and qualifications",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-076",
@@ -3705,7 +3630,8 @@
       "C": "Creating jobs in countries with less stringent environmental laws",
       "D": "Governments leaving it up to corporations to implement CSR policies"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-077",
@@ -3720,7 +3646,8 @@
       "D": "Governments leaving it up to corporations to implement SR policies",
       "E": "All of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-078",
@@ -3734,7 +3661,8 @@
       "C": "Identifying and managing risk",
       "D": "All of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L1112-079",
@@ -3749,7 +3677,8 @@
       "D": "Ensure that special attention is given to countries facing unprecedented challenges in transforming their economies",
       "E": "All of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-080",
@@ -3764,7 +3693,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-081",
@@ -3779,7 +3709,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-082",
@@ -3794,7 +3725,8 @@
       "D": "(a) and (c)",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-083",
@@ -3808,7 +3740,8 @@
       "C": "Unethical",
       "D": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-084",
@@ -3822,7 +3755,8 @@
       "C": "Speak in favor of the development and preface your statement by identifying yourself as an engineer whose opinion is supported by engineering analysis, but without identifying your affiliation with XYZ",
       "D": "Speak in favor of the development and preface your statement by identifying your affiliation with XYZ, also stating you are exercising your right as a citizen"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-085",
@@ -3834,7 +3768,8 @@
       "A": "Yes",
       "B": "No"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-086",
@@ -3848,7 +3783,8 @@
       "C": "Read the monthly magazine for your engineering discipline",
       "D": "Maintain current knowledge of your discipline"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-087",
@@ -3862,7 +3798,8 @@
       "C": "Self-regulation",
       "D": "High salary"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-088",
@@ -3876,7 +3813,8 @@
       "C": "Mention in your talk that the mathematical modeling was carried out by Jim",
       "D": "Add the statement \"mathematical modeling by Jim\" in the slide"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-089",
@@ -3891,7 +3829,8 @@
       "D": "Helpful/ harmful",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-090",
@@ -3906,7 +3845,8 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-091",
@@ -3921,7 +3861,8 @@
       "D": "(a) and (c)",
       "E": "None of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L1112-092",
@@ -3936,7 +3877,8 @@
       "D": "The number of people in the general population who may lose money as a consequence of your decision",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-093",
@@ -3951,7 +3893,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-094",
@@ -3966,7 +3909,8 @@
       "D": "(b) and (c)",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "L1112-095",
@@ -3981,7 +3925,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-096",
@@ -3996,7 +3941,8 @@
       "D": "Both relate to licensing",
       "E": "(a), (b) and (d)"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-097",
@@ -4011,7 +3957,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": null
   },
   {
     "id": "L1112-098",
@@ -4026,7 +3973,8 @@
       "D": "(a) and (b)",
       "E": "None of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": null
   },
   {
     "id": "L1112-099",
@@ -4041,7 +3989,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-100",
@@ -4053,7 +4002,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-101",
@@ -4065,7 +4015,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-102",
@@ -4077,7 +4028,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-103",
@@ -4089,7 +4041,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-104",
@@ -4101,7 +4054,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-105",
@@ -4113,7 +4067,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-106",
@@ -4125,7 +4080,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-107",
@@ -4137,7 +4093,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-108",
@@ -4149,7 +4106,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-109",
@@ -4161,7 +4119,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-110",
@@ -4173,7 +4132,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-111",
@@ -4185,7 +4145,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-112",
@@ -4197,7 +4158,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-113",
@@ -4209,7 +4171,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-114",
@@ -4221,7 +4184,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-115",
@@ -4233,7 +4197,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-116",
@@ -4245,7 +4210,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-117",
@@ -4257,7 +4223,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-118",
@@ -4269,7 +4236,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-119",
@@ -4281,7 +4249,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-120",
@@ -4293,7 +4262,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-121",
@@ -4305,7 +4275,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-122",
@@ -4317,7 +4288,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "L1112-123",
@@ -4329,7 +4301,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "L1112-124",
@@ -4341,7 +4314,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "EXT-001",
@@ -4353,7 +4327,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "EXT-002",
@@ -4365,7 +4340,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "EXT-003",
@@ -4377,7 +4353,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": null
   },
   {
     "id": "EXT-004",
@@ -4389,7 +4366,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "EXT-005",
@@ -4401,7 +4379,8 @@
       "A": "True",
       "B": "False"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": null
   },
   {
     "id": "EXT-006",
@@ -4416,7 +4395,8 @@
       "D": "Without urgent, aggressive steps to stop greenhouse gas emissions, climate change will cause devastating heat waves, floods, starvation and disease",
       "E": "All of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": null
   },
   {
     "id": "EXT-007",
@@ -4430,7 +4410,8 @@
       "C": "He is a better engineer",
       "D": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": "EXT-grp-1"
   },
   {
     "id": "EXT-008",
@@ -4444,7 +4425,8 @@
       "C": "Black's personal comments on the competence of engineers employed by Company A is unethical behaviour",
       "D": "Both (b) and (c)"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": "EXT-grp-1"
   },
   {
     "id": "EXT-009",
@@ -4458,7 +4440,8 @@
       "C": "Prove that Company A is not competent",
       "D": "None of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": "EXT-grp-1"
   },
   {
     "id": "EXT-010",
@@ -4473,7 +4456,8 @@
       "D": "4",
       "E": "3"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": "EXT-grp-1"
   },
   {
     "id": "EXT-011",
@@ -4487,7 +4471,8 @@
       "C": "It is appropriate to criticize with the engineer's knowledge, providing a proper professional tone is used",
       "D": "All of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": "EXT-grp-1"
   },
   {
     "id": "EXT-012",
@@ -4502,7 +4487,8 @@
       "D": "(a) and (b)",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": "EXT-grp-2"
   },
   {
     "id": "EXT-013",
@@ -4517,7 +4503,8 @@
       "D": "(b) and (c)",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": "EXT-grp-2"
   },
   {
     "id": "EXT-014",
@@ -4532,7 +4519,8 @@
       "D": "All of the above",
       "E": "None of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": "EXT-grp-2"
   },
   {
     "id": "EXT-015",
@@ -4547,7 +4535,8 @@
       "D": "(b) and (c)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": "EXT-grp-2"
   },
   {
     "id": "EXT-016",
@@ -4562,7 +4551,8 @@
       "D": "(a) and (c)",
       "E": "All of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": "EXT-grp-2"
   },
   {
     "id": "EXT-017",
@@ -4577,7 +4567,8 @@
       "D": "(a) and (b)",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": "EXT-grp-2"
   },
   {
     "id": "EXT-018",
@@ -4592,7 +4583,8 @@
       "D": "(a) and (c)",
       "E": "None of the above"
     },
-    "answer": "C"
+    "answer": "C",
+    "group": "EXT-grp-3"
   },
   {
     "id": "EXT-019",
@@ -4607,7 +4599,8 @@
       "D": "(a) and (c)",
       "E": "None of the above"
     },
-    "answer": "A"
+    "answer": "A",
+    "group": "EXT-grp-3"
   },
   {
     "id": "EXT-020",
@@ -4622,7 +4615,8 @@
       "D": "(a) and (c)",
       "E": "None of the above"
     },
-    "answer": "D"
+    "answer": "D",
+    "group": "EXT-grp-3"
   },
   {
     "id": "EXT-021",
@@ -4637,7 +4631,8 @@
       "D": "(a) and (b)",
       "E": "All of the above"
     },
-    "answer": "B"
+    "answer": "B",
+    "group": "EXT-grp-3"
   },
   {
     "id": "EXT-022",
@@ -4652,6 +4647,7 @@
       "D": "(b) and (c)",
       "E": "None of the above"
     },
-    "answer": "E"
+    "answer": "E",
+    "group": "EXT-grp-3"
   }
 ]

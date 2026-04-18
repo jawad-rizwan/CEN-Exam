@@ -204,7 +204,13 @@ CEN-Exam/
 - Pulls out numbered questions, choices, and the printed `Answer:` letter.
 - Classifies each question as `multiple_choice` or `true_false`.
 - Attaches scenario context (e.g. `Foundation and Ground Inc.`) to the
-  questions it belongs to, based on ranges like `Questions 41 to 46`.
+  questions it belongs to, based on ranges like `Questions 41 to 46`, and
+  stamps each question with a `group` id so the app can keep scenario
+  questions together when shuffling.
+- Detects "scenario referenced but body is missing" placeholders (e.g. the
+  blocks in *Lectures 7 & 8 Part 3* labelled `Questions 26-30`, `31-35`,
+  `36-40`, `41-46`) and drops those questions entirely. The script prints a
+  line like `Skipped 21 questions due to missing scenario context`.
 - Skips anything malformed or missing an answer and prints why.
 - Writes the cleaned list to `data/question_bank.json`.
 

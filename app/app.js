@@ -55,6 +55,33 @@ function shuffle(arr) {
   return out;
 }
 
+/**
+ * Shuffle questions while keeping scenario-grouped questions together.
+ *
+ * Each question has an optional `group` id. Questions with the same group id
+ * belong to a shared scenario and must stay in their original consecutive
+ * order. Ungrouped questions are treated as singletons. Groups (and
+ * singletons) are then shuffled against each other.
+ */
+function shuffleWithGroups(questions) {
+  const groups = new Map();
+  const singletons = [];
+  for (const q of questions) {
+    if (q.group) {
+      if (!groups.has(q.group)) groups.set(q.group, []);
+      groups.get(q.group).push(q);
+    } else {
+      singletons.push([q]);
+    }
+  }
+  // Sort each group by id so the intended consecutive order is preserved.
+  const grouped = Array.from(groups.values()).map((list) =>
+    list.slice().sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0))
+  );
+  const units = shuffle(grouped.concat(singletons));
+  return units.flat();
+}
+
 /* ---------- deck picker ---------- */
 
 function renderDeckPicker() {
@@ -87,10 +114,10 @@ function buildSessionFromDeck(deck) {
   return buildSession(pool, deck.label);
 }
 
-function buildSession(pool, label) {
+function buildSession(pool, label, { keepGroups = true } = {}) {
   return {
     label,
-    queue: shuffle(pool),
+    queue: keepGroups ? shuffleWithGroups(pool) : shuffle(pool),
     index: 0,
     correct: 0,
     answered: [],
@@ -260,7 +287,9 @@ function retryMissed() {
   const s = state.session;
   const missed = s.answered.filter((a) => !a.correct).map((a) => a.question);
   if (!missed.length) return;
-  startSession(buildSession(missed, `${s.label} (missed)`));
+  // For missed-only retry we allow plain shuffling since the group may be
+  // incomplete (user may only have missed some of a scenario's questions).
+  startSession(buildSession(missed, `${s.label} (missed)`, { keepGroups: false }));
 }
 
 function restartSameDeck() {

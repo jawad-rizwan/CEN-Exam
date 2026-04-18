@@ -160,7 +160,7 @@ def parse_questions(text: str) -> tuple[list[dict], list[tuple[str, str]]]:
 
     Returned raw dict fields:
       number, stem, choices (dict letter->text), answer (letter|None),
-      scenario (str|None)
+      scenario (str|None), scenario_block (int|None)
     """
     lines = _collapse_multiline(text.split("\n"))
 
@@ -169,11 +169,32 @@ def parse_questions(text: str) -> tuple[list[dict], list[tuple[str, str]]]:
     current_scenario: str | None = None
     # Optional inclusive range (start, end) during which the scenario applies.
     current_scenario_range: tuple[int, int] | None = None
+    # Monotonically increasing id for each scenario block we encounter so
+    # identical scenario text across files / reuses stay distinct groups.
+    current_scenario_block: int | None = None
+    scenario_block_counter = 0
     current: dict | None = None
 
     scenario_range_re = re.compile(
         r"Questions?\s+(\d+)\s*(?:to|-|\u2013)\s*(\d+)", re.IGNORECASE
     )
+
+    def start_scenario(text_: str) -> None:
+        nonlocal current_scenario, current_scenario_range, current_scenario_block
+        nonlocal scenario_block_counter
+        current_scenario = text_.rstrip(".")
+        rm = scenario_range_re.search(text_)
+        current_scenario_range = (
+            (int(rm.group(1)), int(rm.group(2))) if rm else None
+        )
+        scenario_block_counter += 1
+        current_scenario_block = scenario_block_counter
+
+    def clear_scenario() -> None:
+        nonlocal current_scenario, current_scenario_range, current_scenario_block
+        current_scenario = None
+        current_scenario_range = None
+        current_scenario_block = None
 
     def close_current() -> None:
         nonlocal current
@@ -196,20 +217,22 @@ def parse_questions(text: str) -> tuple[list[dict], list[tuple[str, str]]]:
             if current_scenario_range is not None:
                 lo, hi = current_scenario_range
                 if num > hi:
-                    current_scenario = None
-                    current_scenario_range = None
+                    clear_scenario()
             # Only attach the scenario if it applies to this number.
             scenario_for_q: str | None = current_scenario
+            block_for_q: int | None = current_scenario_block
             if current_scenario_range is not None:
                 lo, hi = current_scenario_range
                 if not (lo <= num <= hi):
                     scenario_for_q = None
+                    block_for_q = None
             current = {
                 "number": num,
                 "stem": stem,
                 "choices": {},
                 "answer": None,
                 "scenario": scenario_for_q,
+                "scenario_block": block_for_q,
             }
             continue
 
@@ -228,22 +251,14 @@ def parse_questions(text: str) -> tuple[list[dict], list[tuple[str, str]]]:
             tail = line[m_a.end():].strip()
             close_current()
             if tail and not SECTION_HEADER.match(tail):
-                current_scenario = tail.rstrip(".")
-                rm = scenario_range_re.search(tail)
-                current_scenario_range = (
-                    (int(rm.group(1)), int(rm.group(2))) if rm else None
-                )
+                start_scenario(tail)
             continue
 
         # Free-text line outside a question block = scenario header for the
         # questions that follow (e.g. "Hot Furnaces R Us").
         if current is None:
             if not line.lower().startswith(("answer", "questions ")):
-                current_scenario = line.strip().rstrip(".")
-                rm = scenario_range_re.search(line)
-                current_scenario_range = (
-                    (int(rm.group(1)), int(rm.group(2))) if rm else None
-                )
+                start_scenario(line.strip())
         else:
             # Inside a question but before any choices or answer: stem continuation.
             if not current["choices"] and current["answer"] is None:
@@ -254,6 +269,44 @@ def parse_questions(text: str) -> tuple[list[dict], list[tuple[str, str]]]:
 
 
 # -------- classification / validation --------
+
+
+# Boilerplate that means a scenario is referenced but never actually written
+# out (e.g. "Scenario for Questions 26 to 30 Read the following scenario and
+# answer the five questions that follow"). Those questions cannot be answered
+# without the missing context, so we skip them.
+_PLACEHOLDER_BOILERPLATE = re.compile(
+    r"Read\s+the\s+following\s+scenario\s+and\s+answer\s+"
+    r"the\s+\w+\s+questions?\s+that\s+follow\.?",
+    re.IGNORECASE,
+)
+_SCENARIO_PREFIX = re.compile(
+    r"^\s*Scenario\s+for\s+Questions?\s+\d+\s*(?:to|-|\u2013)\s*\d+\s*",
+    re.IGNORECASE,
+)
+
+
+def is_placeholder_scenario(text: str | None) -> bool:
+    """
+    A "placeholder" scenario is one that says
+        "Scenario for Questions X to Y Read the following scenario and
+         answer the N questions that follow"
+    but never provides the scenario body. Those questions can't be answered,
+    so we drop them.
+
+    Short free-text titles like "Hot Furnaces R Us" are NOT placeholders.
+    They identify a scenario; the student is expected to use the title as
+    the frame for the questions.
+    """
+    if not text:
+        return False
+    m = _SCENARIO_PREFIX.match(text)
+    if not m:
+        # Not a "Scenario for Questions X to Y" block - treat as a title.
+        return False
+    body = text[m.end():].strip()
+    body_no_boilerplate = _PLACEHOLDER_BOILERPLATE.sub("", body).strip(" .")
+    return len(body_no_boilerplate) < 20
 
 
 def classify_and_validate(raw: dict) -> tuple[dict | None, str | None]:
@@ -345,7 +398,28 @@ def main() -> int:
         raw_questions, _ = parse_questions(text)
         per_source_seen[source] += len(raw_questions)
 
+        # Pre-pass: find which scenario blocks reference a missing scenario.
+        bad_blocks: set[int] = set()
         for raw in raw_questions:
+            block = raw.get("scenario_block")
+            if block is None:
+                continue
+            if is_placeholder_scenario(raw.get("scenario")):
+                bad_blocks.add(block)
+
+        # Count how many questions we're dropping per bad block for reporting.
+        missing_ctx_counts: Counter = Counter()
+
+        for raw in raw_questions:
+            block = raw.get("scenario_block")
+            if block is not None and block in bad_blocks:
+                missing_ctx_counts[block] += 1
+                skip_log.append(
+                    f"[{filename} Q{raw.get('number')}] references a scenario "
+                    f"that is not present in the PDF"
+                )
+                continue
+
             validated, reason = classify_and_validate(raw)
             if validated is None:
                 skip_log.append(f"[{filename} Q{raw.get('number')}] {reason}")
@@ -355,6 +429,10 @@ def main() -> int:
             per_source_id_counter[prefix] += 1
             qid = f"{prefix}-{per_source_id_counter[prefix]:03d}"
 
+            # Group id: stable per scenario block so these questions can be
+            # kept together during shuffling. Ungrouped questions get null.
+            group = f"{prefix}-grp-{block}" if block is not None else None
+
             record = {
                 "id": qid,
                 "source": source,
@@ -363,9 +441,16 @@ def main() -> int:
                 "question": validated["question"],
                 "choices": validated["choices"],
                 "answer": validated["answer"],
+                "group": group,
             }
             all_records.append(record)
             per_source_counts[source] += 1
+
+        for block, n in missing_ctx_counts.items():
+            skip_log.append(
+                f"[{filename}] dropped scenario block #{block}: "
+                f"{n} questions missing scenario text"
+            )
 
     # Warn about any PDF present on disk that wasn't in PROCESS_ORDER.
     unknown = sorted(files_on_disk - set(PROCESS_ORDER))
@@ -390,6 +475,15 @@ def main() -> int:
         1 for s in skip_log if "file not in source map" not in s
     ) * 0  # skip_log counts already reflect skipped items; keep math simple.
 
+    missing_ctx_skips = sum(
+        1 for e in skip_log if "references a scenario that is not present" in e
+    )
+
+    group_counts: Counter = Counter()
+    for r in all_records:
+        if r.get("group"):
+            group_counts[r["group"]] += 1
+
     print("=" * 60)
     print("EXTRACTION SUMMARY")
     print("=" * 60)
@@ -399,11 +493,21 @@ def main() -> int:
     print(f"Total questions seen: {total_seen}")
     print(f"Total kept (valid)  : {total_kept}")
     print(f"Total skipped       : {total_seen - total_kept}")
+    if missing_ctx_skips:
+        print(
+            f"Skipped {missing_ctx_skips} questions due to missing "
+            f"scenario context"
+        )
     print()
     print("Per-source kept counts:")
     for src in ("Lecture 7 & 8", "Lecture 9 & 10", "Lecture 11 & 12", "Extra"):
         print(f"  {src:<20} {per_source_counts.get(src, 0)}")
     print()
+    if group_counts:
+        print("Scenario groups (kept together when shuffling):")
+        for g, n in group_counts.items():
+            print(f"  {g:<18} {n} questions")
+        print()
     if skip_log:
         print("Skipped items:")
         for entry in skip_log:
