@@ -835,54 +835,6 @@
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
-    "question": "Consider the code of ethics of the engineering society IEEE and the provincial association PEO",
-    "choices": {
-      "A": "Both focus on licensing in the electrical and electronics engineering field",
-      "B": "Both focus on licensing in the province of Ontario",
-      "C": "There are some similarities in the two codes of ethics",
-      "D": "There are no differences in the two codes of ethics",
-      "E": "(b) and (c)"
-    },
-    "answer": "C",
-    "group": null
-  },
-  {
-    "id": "L78-054",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "An engineer who takes on an administrative management position for her company",
-    "choices": {
-      "A": "Is permitted to participate in and oversee engineering activities",
-      "B": "Is permitted to participate in and oversee design activities",
-      "C": "Is permitted to participate in and oversee non-engineering activities",
-      "D": "(a) and (b)",
-      "E": "All of the above"
-    },
-    "answer": "E",
-    "group": null
-  },
-  {
-    "id": "L78-055",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "Of the duties of the engineer alluded to in PEO's engineering code of ethics, which is considered to be of paramount importance?",
-    "choices": {
-      "A": "Duty to subordinates who work under your guidance",
-      "B": "Duty to society",
-      "C": "Duty to self",
-      "D": "Duty to suppliers of raw materials used in your company",
-      "E": "Duty to your manager"
-    },
-    "answer": "B",
-    "group": null
-  },
-  {
-    "id": "L78-056",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
     "question": "An engineer finds himself faced with a serious ethical dilemma in an engineering matter within a branch office of his company. Which of the following factors should he take into account in deciding the course of action to follow?",
     "choices": {
       "A": "The impact his decision can have on his company's engineering and non-engineering staff members",
@@ -895,7 +847,7 @@
     "group": null
   },
   {
-    "id": "L78-057",
+    "id": "L78-054",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -911,7 +863,7 @@
     "group": null
   },
   {
-    "id": "L78-058",
+    "id": "L78-055",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -927,7 +879,7 @@
     "group": null
   },
   {
-    "id": "L78-059",
+    "id": "L78-056",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -943,7 +895,7 @@
     "group": null
   },
   {
-    "id": "L78-060",
+    "id": "L78-057",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -959,7 +911,7 @@
     "group": null
   },
   {
-    "id": "L78-061",
+    "id": "L78-058",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -975,7 +927,7 @@
     "group": null
   },
   {
-    "id": "L78-062",
+    "id": "L78-059",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -991,7 +943,7 @@
     "group": null
   },
   {
-    "id": "L78-063",
+    "id": "L78-060",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1007,7 +959,7 @@
     "group": null
   },
   {
-    "id": "L78-064",
+    "id": "L78-061",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1020,7 +972,7 @@
     "group": null
   },
   {
-    "id": "L78-065",
+    "id": "L78-062",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1036,7 +988,7 @@
     "group": "L78-grp-1"
   },
   {
-    "id": "L78-066",
+    "id": "L78-063",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1052,7 +1004,7 @@
     "group": "L78-grp-1"
   },
   {
-    "id": "L78-067",
+    "id": "L78-064",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1068,7 +1020,7 @@
     "group": "L78-grp-1"
   },
   {
-    "id": "L78-068",
+    "id": "L78-065",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1084,7 +1036,7 @@
     "group": "L78-grp-1"
   },
   {
-    "id": "L78-069",
+    "id": "L78-066",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1100,7 +1052,7 @@
     "group": "L78-grp-1"
   },
   {
-    "id": "L78-070",
+    "id": "L78-067",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1113,7 +1065,7 @@
     "group": null
   },
   {
-    "id": "L78-071",
+    "id": "L78-068",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1126,7 +1078,7 @@
     "group": null
   },
   {
-    "id": "L78-072",
+    "id": "L78-069",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1139,7 +1091,7 @@
     "group": null
   },
   {
-    "id": "L78-073",
+    "id": "L78-070",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1152,7 +1104,7 @@
     "group": null
   },
   {
-    "id": "L78-074",
+    "id": "L78-071",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1165,7 +1117,7 @@
     "group": null
   },
   {
-    "id": "L78-075",
+    "id": "L78-072",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1181,7 +1133,7 @@
     "group": null
   },
   {
-    "id": "L78-076",
+    "id": "L78-073",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1197,7 +1149,7 @@
     "group": null
   },
   {
-    "id": "L78-077",
+    "id": "L78-074",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1213,7 +1165,7 @@
     "group": null
   },
   {
-    "id": "L78-078",
+    "id": "L78-075",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1229,7 +1181,7 @@
     "group": null
   },
   {
-    "id": "L78-079",
+    "id": "L78-076",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1245,7 +1197,7 @@
     "group": null
   },
   {
-    "id": "L78-080",
+    "id": "L78-077",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1261,7 +1213,7 @@
     "group": null
   },
   {
-    "id": "L78-081",
+    "id": "L78-078",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1277,7 +1229,7 @@
     "group": null
   },
   {
-    "id": "L78-082",
+    "id": "L78-079",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1293,7 +1245,7 @@
     "group": null
   },
   {
-    "id": "L78-083",
+    "id": "L78-080",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1309,23 +1261,7 @@
     "group": null
   },
   {
-    "id": "L78-084",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "The code of ethics of Professional Engineers Ontario and the IEEE code of ethics:",
-    "choices": {
-      "A": "Have differences related to the different mandates of PEO and IEEE",
-      "B": "Are equally important",
-      "C": "Are approved by a common committee for engineering ethics",
-      "D": "Both relate to licensing",
-      "E": "(a), (b) and (d)"
-    },
-    "answer": "A",
-    "group": null
-  },
-  {
-    "id": "L78-085",
+    "id": "L78-081",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1341,7 +1277,7 @@
     "group": null
   },
   {
-    "id": "L78-086",
+    "id": "L78-082",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1357,7 +1293,7 @@
     "group": null
   },
   {
-    "id": "L78-087",
+    "id": "L78-083",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1373,7 +1309,7 @@
     "group": null
   },
   {
-    "id": "L78-088",
+    "id": "L78-084",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1386,7 +1322,7 @@
     "group": null
   },
   {
-    "id": "L78-089",
+    "id": "L78-085",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1399,7 +1335,7 @@
     "group": null
   },
   {
-    "id": "L78-090",
+    "id": "L78-086",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1412,7 +1348,7 @@
     "group": null
   },
   {
-    "id": "L78-091",
+    "id": "L78-087",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1425,7 +1361,7 @@
     "group": null
   },
   {
-    "id": "L78-092",
+    "id": "L78-088",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1438,7 +1374,7 @@
     "group": null
   },
   {
-    "id": "L78-093",
+    "id": "L78-089",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1451,7 +1387,7 @@
     "group": null
   },
   {
-    "id": "L78-094",
+    "id": "L78-090",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1464,7 +1400,7 @@
     "group": null
   },
   {
-    "id": "L78-095",
+    "id": "L78-091",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1477,7 +1413,7 @@
     "group": null
   },
   {
-    "id": "L78-096",
+    "id": "L78-092",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1490,7 +1426,7 @@
     "group": null
   },
   {
-    "id": "L78-097",
+    "id": "L78-093",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1503,7 +1439,7 @@
     "group": null
   },
   {
-    "id": "L78-098",
+    "id": "L78-094",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1516,7 +1452,7 @@
     "group": null
   },
   {
-    "id": "L78-099",
+    "id": "L78-095",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1531,7 +1467,7 @@
     "group": null
   },
   {
-    "id": "L78-100",
+    "id": "L78-096",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1544,7 +1480,7 @@
     "group": null
   },
   {
-    "id": "L78-101",
+    "id": "L78-097",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1560,7 +1496,7 @@
     "group": null
   },
   {
-    "id": "L78-102",
+    "id": "L78-098",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1576,7 +1512,7 @@
     "group": null
   },
   {
-    "id": "L78-103",
+    "id": "L78-099",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1589,7 +1525,7 @@
     "group": null
   },
   {
-    "id": "L78-104",
+    "id": "L78-100",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1604,23 +1540,7 @@
     "group": null
   },
   {
-    "id": "L78-105",
-    "source": "Lecture 7 & 8",
-    "topic": "Lecture 7 & 8",
-    "type": "multiple_choice",
-    "question": "Which of the following statements are true",
-    "choices": {
-      "A": "Canada's GHG emissions are higher than our Kyoto commitment to be 6% below 1998 levels",
-      "B": "It is not ethical to give or accept bribes even if it is the only way you can continue to operate in a country",
-      "C": "Stakeholder engagement is good for an organization",
-      "D": "An engineer should know what the rights and risks of harm to all of his or her stakeholders are",
-      "E": "All of the above"
-    },
-    "answer": "E",
-    "group": null
-  },
-  {
-    "id": "L78-106",
+    "id": "L78-101",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1633,7 +1553,7 @@
     "group": null
   },
   {
-    "id": "L78-107",
+    "id": "L78-102",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1646,7 +1566,7 @@
     "group": null
   },
   {
-    "id": "L78-108",
+    "id": "L78-103",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1659,7 +1579,7 @@
     "group": null
   },
   {
-    "id": "L78-109",
+    "id": "L78-104",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1674,7 +1594,7 @@
     "group": null
   },
   {
-    "id": "L78-110",
+    "id": "L78-105",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1687,7 +1607,7 @@
     "group": null
   },
   {
-    "id": "L78-111",
+    "id": "L78-106",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1700,7 +1620,7 @@
     "group": null
   },
   {
-    "id": "L78-112",
+    "id": "L78-107",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1713,7 +1633,7 @@
     "group": null
   },
   {
-    "id": "L78-113",
+    "id": "L78-108",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1726,7 +1646,7 @@
     "group": null
   },
   {
-    "id": "L78-114",
+    "id": "L78-109",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1742,7 +1662,7 @@
     "group": null
   },
   {
-    "id": "L78-115",
+    "id": "L78-110",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1755,7 +1675,7 @@
     "group": null
   },
   {
-    "id": "L78-116",
+    "id": "L78-111",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1768,7 +1688,7 @@
     "group": null
   },
   {
-    "id": "L78-117",
+    "id": "L78-112",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1781,7 +1701,7 @@
     "group": null
   },
   {
-    "id": "L78-118",
+    "id": "L78-113",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1794,7 +1714,7 @@
     "group": null
   },
   {
-    "id": "L78-119",
+    "id": "L78-114",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1807,7 +1727,7 @@
     "group": null
   },
   {
-    "id": "L78-120",
+    "id": "L78-115",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1820,7 +1740,7 @@
     "group": null
   },
   {
-    "id": "L78-121",
+    "id": "L78-116",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1833,7 +1753,7 @@
     "group": null
   },
   {
-    "id": "L78-122",
+    "id": "L78-117",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1849,7 +1769,7 @@
     "group": null
   },
   {
-    "id": "L78-123",
+    "id": "L78-118",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1865,7 +1785,7 @@
     "group": null
   },
   {
-    "id": "L78-124",
+    "id": "L78-119",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1881,7 +1801,7 @@
     "group": null
   },
   {
-    "id": "L78-125",
+    "id": "L78-120",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1896,7 +1816,7 @@
     "group": null
   },
   {
-    "id": "L78-126",
+    "id": "L78-121",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1915,22 +1835,6 @@
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
-    "question": "Consider the code of ethics of the engineering society IEEE and the provincial association PEO:",
-    "choices": {
-      "A": "Both focus on licensing in the electrical and electronics engineering field",
-      "B": "Both focus on licensing in the province of Ontario",
-      "C": "There are some similarities in the two codes of ethics",
-      "D": "There are no differences in the two codes of ethics",
-      "E": "(b) and (c)"
-    },
-    "answer": "C",
-    "group": null
-  },
-  {
-    "id": "L910-002",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
     "question": "The Code of Ethics of Professional Engineers Ontario and the Code of Ethics of the IEEE engineering society:",
     "choices": {
       "A": "Are useful in that they allow engineers to adhere to either one or the other in order to maintain a license to practice engineering in Ontario",
@@ -1943,71 +1847,7 @@
     "group": null
   },
   {
-    "id": "L910-003",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "The Code of Ethics of Professional Engineers Ontario and the IEEE Code of Ethics:",
-    "choices": {
-      "A": "Have differences related to the different mandates of PEO and IEEE",
-      "B": "Are equally important",
-      "C": "Are approved by a common committee for engineering ethics",
-      "D": "Both relate to licensing",
-      "E": "(a), (b) and (d)"
-    },
-    "answer": "A",
-    "group": null
-  },
-  {
-    "id": "L910-004",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "Of the duties of the engineer alluded to in PEO's engineering code of ethics, which is considered to be of paramount importance:",
-    "choices": {
-      "A": "Duty to subordinates who work under your guidance",
-      "B": "Duty to society",
-      "C": "Duty to self",
-      "D": "Duty to suppliers of raw materials used in your company",
-      "E": "Duty to your manager"
-    },
-    "answer": "B",
-    "group": null
-  },
-  {
-    "id": "L910-005",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "Different parts of Ontario's code of ethics for engineers imply that engineers should:",
-    "choices": {
-      "A": "Not point out technical errors made by themselves",
-      "B": "Exaggerate technical errors made by another engineer",
-      "C": "Point out technical errors made by another engineer",
-      "D": "Not point out technical errors made by another engineer",
-      "E": "All of the above"
-    },
-    "answer": "C",
-    "group": null
-  },
-  {
-    "id": "L910-006",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "According to Ontario's code of ethics for engineers, an engineer is permitted to:",
-    "choices": {
-      "A": "Explain technical issues",
-      "B": "Point out risks to the welfare of the public",
-      "C": "Question another engineer's competence",
-      "D": "Point out technical errors of another engineer",
-      "E": "All of the above"
-    },
-    "answer": "E",
-    "group": null
-  },
-  {
-    "id": "L910-007",
+    "id": "L910-002",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2023,7 +1863,7 @@
     "group": null
   },
   {
-    "id": "L910-008",
+    "id": "L910-003",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2039,23 +1879,7 @@
     "group": null
   },
   {
-    "id": "L910-009",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "Engineers who take on management roles in companies",
-    "choices": {
-      "A": "Do not have to make decisions related to allocating human resources",
-      "B": "Have to ensure engineering titles are used properly",
-      "C": "Are unwise to override the judgement of engineers on technical matters without investigating carefully",
-      "D": "(b) and (c)",
-      "E": "(a) and (b)"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L910-010",
+    "id": "L910-004",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2071,7 +1895,7 @@
     "group": null
   },
   {
-    "id": "L910-011",
+    "id": "L910-005",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2087,39 +1911,7 @@
     "group": null
   },
   {
-    "id": "L910-012",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "An engineer finds himself faced with a serious ethical dilemma in an engineering matter within a branch office of his company. Which of the following factors should he take into account in deciding the course of action to follow?",
-    "choices": {
-      "A": "The impact his decision can have on his company's engineering and non-engineering staff members",
-      "B": "The impact his decision can have on only his company's engineering staff members",
-      "C": "The impact his decision can have on only his company's engineering staff members who are employed at the branch office",
-      "D": "(b) and (c)",
-      "E": "All of the above"
-    },
-    "answer": "A",
-    "group": null
-  },
-  {
-    "id": "L910-013",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "An engineer who takes on an administrative management position for her company",
-    "choices": {
-      "A": "Is permitted to participate in and oversee engineering activities",
-      "B": "Is permitted to participate in and oversee design activities",
-      "C": "Is permitted to participate in and oversee non-engineering activities",
-      "D": "(a) and (b)",
-      "E": "All of the above"
-    },
-    "answer": "E",
-    "group": null
-  },
-  {
-    "id": "L910-014",
+    "id": "L910-006",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2135,7 +1927,7 @@
     "group": null
   },
   {
-    "id": "L910-015",
+    "id": "L910-007",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2151,7 +1943,7 @@
     "group": null
   },
   {
-    "id": "L910-016",
+    "id": "L910-008",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2167,7 +1959,7 @@
     "group": null
   },
   {
-    "id": "L910-017",
+    "id": "L910-009",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2183,7 +1975,7 @@
     "group": null
   },
   {
-    "id": "L910-018",
+    "id": "L910-010",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2198,7 +1990,7 @@
     "group": null
   },
   {
-    "id": "L910-019",
+    "id": "L910-011",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2211,7 +2003,7 @@
     "group": null
   },
   {
-    "id": "L910-020",
+    "id": "L910-012",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2227,87 +2019,7 @@
     "group": null
   },
   {
-    "id": "L910-021",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "Professional engineers who establish their own company",
-    "choices": {
-      "A": "Often spend as much time dealing with decisions involving material and human resources, as well as relations between people",
-      "B": "Often experience high levels of stress due to their responsibilities",
-      "C": "Are not permitted to deal with technical engineering details, since they are company owners",
-      "D": "(a) and (b)",
-      "E": "(a) and (c)"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L910-022",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "An engineer who quits a company in order to establish and run her own engineering company is likely to find herself facing",
-    "choices": {
-      "A": "Fewer ethical dilemmas than when she was working at her past company as an engineer",
-      "B": "More ethical dilemmas than when she was working at her past company as an engineer",
-      "C": "Fewer ethical dilemmas than other engineers who work at her past company as engineers",
-      "D": "More ethical dilemmas than other engineers who work at her past company as engineers",
-      "E": "(b) and (d)"
-    },
-    "answer": "E",
-    "group": null
-  },
-  {
-    "id": "L910-023",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "A professional engineer in Ontario offering engineering services directly to the public",
-    "choices": {
-      "A": "Requires a Certificate of Authorization",
-      "B": "Always needs professional liability insurance of no less than $100,000",
-      "C": "Need not have liability insurance, but then must satisfy other requirements",
-      "D": "(a) and (c)",
-      "E": "None of the above"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L910-024",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "A professional engineer in Ontario offering engineering services directly to the public",
-    "choices": {
-      "A": "Does not need to have a Certificate of Authorization",
-      "B": "Needs professional liability insurance exceeding $100,000",
-      "C": "Does not need to have liability insurance and does not need to notify clients about this",
-      "D": "(a) and (b)",
-      "E": "None of the above"
-    },
-    "answer": "E",
-    "group": null
-  },
-  {
-    "id": "L910-025",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "In order to receive the designation \"Consulting Engineer\" in the province of Ontario from the PEO, you must satisfy which of the following requirements?",
-    "choices": {
-      "A": "Be a licensed member of the PEO in good standing for at least 5 years",
-      "B": "Be continuously engaged in private practice for at least 2 years",
-      "C": "Pass or be exempted from exams prescribed by the PEO",
-      "D": "All of the above",
-      "E": "(a) and (b) above"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L910-026",
+    "id": "L910-013",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2323,7 +2035,7 @@
     "group": null
   },
   {
-    "id": "L910-027",
+    "id": "L910-014",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2339,55 +2051,7 @@
     "group": null
   },
   {
-    "id": "L910-028",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "One aspect of the PEO Code of Ethics for engineers indicates that an engineer should",
-    "choices": {
-      "A": "Point out technical errors of another engineer, but not point out unethical behaviour",
-      "B": "Constructively point out technical errors made by another engineer",
-      "C": "Spread untrue information about the company owned by another engineer",
-      "D": "(a) and (c)",
-      "E": "All of the above"
-    },
-    "answer": "B",
-    "group": null
-  },
-  {
-    "id": "L910-029",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "An engineer is likely guilty of professional misconduct if she has",
-    "choices": {
-      "A": "Loaned her engineering seal to another engineer who has not yet become a licensed engineer",
-      "B": "Applied her engineering seal to an engineering drawing that was prepared very carefully by another engineer, but that she has not looked over",
-      "C": "Used her engineering seal to seal complete and final engineering plans that she has prepared",
-      "D": "(a) and (b)",
-      "E": "(a) and (c)"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L910-030",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "Ethical dilemmas relating to engineering decisions in biomedical laboratories can arise in the area of",
-    "choices": {
-      "A": "Safeguarding the intellectual property of those who develop a new treatment technology",
-      "B": "Safeguarding the rights of human subjects involved in experimental studies",
-      "C": "Safeguarding the rights of people with medical devices",
-      "D": "(a) and (b)",
-      "E": "All of the above"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L910-031",
+    "id": "L910-015",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2402,7 +2066,7 @@
     "group": null
   },
   {
-    "id": "L910-032",
+    "id": "L910-016",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2418,23 +2082,7 @@
     "group": null
   },
   {
-    "id": "L910-033",
-    "source": "Lecture 9 & 10",
-    "topic": "Lecture 9 & 10",
-    "type": "multiple_choice",
-    "question": "In the Code of Ethics of Professional Engineers Ontario, the duty of one engineer to another engineer who works for a financial management company in the Industrial Engineering Department",
-    "choices": {
-      "A": "Is not applicable since financial management companies do not undertake engineering",
-      "B": "Would be different if the engineer worked in the Facilities Engineering Department of the financial management company",
-      "C": "Would be the same if the engineer worked in the Facilities Engineering Department of the financial management company",
-      "D": "(a) and (c)",
-      "E": "None of the above"
-    },
-    "answer": "C",
-    "group": null
-  },
-  {
-    "id": "L910-034",
+    "id": "L910-017",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2450,7 +2098,7 @@
     "group": null
   },
   {
-    "id": "L910-035",
+    "id": "L910-018",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2466,7 +2114,7 @@
     "group": null
   },
   {
-    "id": "L910-036",
+    "id": "L910-019",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2482,7 +2130,7 @@
     "group": null
   },
   {
-    "id": "L910-037",
+    "id": "L910-020",
     "source": "Lecture 9 & 10",
     "topic": "Lecture 9 & 10",
     "type": "multiple_choice",
@@ -2983,54 +2631,6 @@
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
-    "question": "Is a professional engineer required to keep abreast of new developments in his / her field of engineering?",
-    "choices": {
-      "A": "Yes, because it is interesting to do so",
-      "B": "Yes, if they are active in the practice of engineering",
-      "C": "No, because it is acceptable to rely on what was taught in university",
-      "D": "No, unless an employer is willing to pay for the engineer to take the university courses while employed",
-      "E": "None of the above"
-    },
-    "answer": "B",
-    "group": null
-  },
-  {
-    "id": "L1112-037",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "When is it acceptable for a professional engineer not to keep up with new developments in his/ her field of engineering?",
-    "choices": {
-      "A": "When the topics of relevance are not interesting",
-      "B": "When the previously used techniques and methods are easier to apply",
-      "C": "When the topics of relevance were not taught in university",
-      "D": "When an employer does not pay for the engineer to take university courses",
-      "E": "None of the above"
-    },
-    "answer": "E",
-    "group": null
-  },
-  {
-    "id": "L1112-038",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "Professional misconduct in the practice of engineering",
-    "choices": {
-      "A": "Can include incompetence and corruption, but excludes negligence",
-      "B": "Can be the cause of disciplinary action only by the government, and not by the provincial or territorial engineering association",
-      "C": "Can lead to a member of the provincial or territorial association being reprimanded and, in severe cases, expelled or suspended",
-      "D": "Is only a matter relating to the integrity of the profession, and does not in general constitute a threat to the public welfare",
-      "E": "None of the above"
-    },
-    "answer": "C",
-    "group": null
-  },
-  {
-    "id": "L1112-039",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
     "question": "Clause 7(iii) in Ontario's Code of Ethics for engineers implies that an engineer",
     "choices": {
       "A": "Should point out, but not boast about, technical errors made by another engineer",
@@ -3043,7 +2643,7 @@
     "group": null
   },
   {
-    "id": "L1112-040",
+    "id": "L1112-037",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3059,7 +2659,7 @@
     "group": null
   },
   {
-    "id": "L1112-041",
+    "id": "L1112-038",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3075,7 +2675,7 @@
     "group": null
   },
   {
-    "id": "L1112-042",
+    "id": "L1112-039",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3091,7 +2691,7 @@
     "group": null
   },
   {
-    "id": "L1112-043",
+    "id": "L1112-040",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3107,7 +2707,7 @@
     "group": null
   },
   {
-    "id": "L1112-044",
+    "id": "L1112-041",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3123,7 +2723,7 @@
     "group": null
   },
   {
-    "id": "L1112-045",
+    "id": "L1112-042",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3139,7 +2739,7 @@
     "group": null
   },
   {
-    "id": "L1112-046",
+    "id": "L1112-043",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3155,7 +2755,7 @@
     "group": null
   },
   {
-    "id": "L1112-047",
+    "id": "L1112-044",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3171,7 +2771,7 @@
     "group": null
   },
   {
-    "id": "L1112-048",
+    "id": "L1112-045",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3187,23 +2787,7 @@
     "group": null
   },
   {
-    "id": "L1112-049",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "Engineering societies in Canada",
-    "choices": {
-      "A": "Do not exist in most major engineering disciplines",
-      "B": "Often run conferences to help keep engineers aware of new developments in the field of engineering",
-      "C": "Have similar roles to the provincial and territorial engineering associations",
-      "D": "Never have code of ethics because such codes are responsibility of the provincial and territorial associations",
-      "E": "None of the above"
-    },
-    "answer": "B",
-    "group": null
-  },
-  {
-    "id": "L1112-050",
+    "id": "L1112-046",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3219,7 +2803,7 @@
     "group": null
   },
   {
-    "id": "L1112-051",
+    "id": "L1112-047",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3235,7 +2819,7 @@
     "group": null
   },
   {
-    "id": "L1112-052",
+    "id": "L1112-048",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3251,39 +2835,7 @@
     "group": null
   },
   {
-    "id": "L1112-053",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "An example of professional misconduct would be the act of",
-    "choices": {
-      "A": "Applying your engineering seal to engineering plans that you have prepared",
-      "B": "Applying your engineering seal to an engineering drawing that you did not prepare, but which was prepared under your direct supervision",
-      "C": "Applying your engineering seal to an engineering plan that you have not thoroughly reviewed",
-      "D": "(a) and (b)",
-      "E": "(a) and (c)"
-    },
-    "answer": "C",
-    "group": null
-  },
-  {
-    "id": "L1112-054",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "An example of professional misconduct regarding use of your engineering seal would be",
-    "choices": {
-      "A": "Applying your engineering seal to engineering plans that you have prepared, but you do not feel are adequately done",
-      "B": "Applying your engineering seal to an engineering drawing that you did not prepare, but which was prepared under your direct supervision and which you have reviewed",
-      "C": "Applying your engineering seal to an engineering plan that you have not thoroughly reviewed",
-      "D": "(a) and (b)",
-      "E": "(a) and (c)"
-    },
-    "answer": "E",
-    "group": null
-  },
-  {
-    "id": "L1112-055",
+    "id": "L1112-049",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3299,55 +2851,7 @@
     "group": null
   },
   {
-    "id": "L1112-056",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "In all Canadian provinces and territories, the laws regarding the requirement to get licenses to practice engineering are considered as a \"closed\" profession. That means that",
-    "choices": {
-      "A": "It is voluntary to get licensed",
-      "B": "It is mandatory to get licensed to practice engineering",
-      "C": "Only lawful for Canadian educated engineers to get a license",
-      "D": "New licenses are only issued after a licensed engineer retires",
-      "E": "There are limited number of engineer licenses"
-    },
-    "answer": "B",
-    "group": null
-  },
-  {
-    "id": "L1112-057",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "The original licensing laws relating to engineering in Canada's provinces and territories were \"open,\" meaning obtaining a license to practice engineering was voluntary. Which statement characterizes the present laws?",
-    "choices": {
-      "A": "A license is needed to practice engineering business",
-      "B": "An engineering graduate who does not have a license cannot offer engineering services to the public",
-      "C": "The present laws are \"closed\" and there is a restriction on the use of the term Professional Engineer",
-      "D": "All of the above",
-      "E": "None of the above"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L1112-058",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "Which of the following is an implication of the engineering profession being self-regulating in Canada?",
-    "choices": {
-      "A": "The provincial and territorial engineering associations are responsible for disciplining members who violate the code of ethics",
-      "B": "The provincial and territorial governments are directly responsible for the granting of licenses",
-      "C": "The provincial and territorial governments evaluate the credentials of an applicant to the provincial or territorial association",
-      "D": "(b) and (c)",
-      "E": "None of the above"
-    },
-    "answer": "A",
-    "group": null
-  },
-  {
-    "id": "L1112-059",
+    "id": "L1112-050",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3363,23 +2867,7 @@
     "group": null
   },
   {
-    "id": "L1112-060",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "Which of the following is an implication of the engineering profession being self-regulating in Canada?",
-    "choices": {
-      "A": "The provincial and territorial engineering associations are not responsible for disciplining members who violate the code of ethics",
-      "B": "The engineering societies are responsible for the granting of licenses",
-      "C": "The provincial and territorial governments evaluate the credentials of people coming from outside Canada, who apply for membership to a provincial or territorial association",
-      "D": "(b) and (c)",
-      "E": "None of the above"
-    },
-    "answer": "E",
-    "group": null
-  },
-  {
-    "id": "L1112-061",
+    "id": "L1112-051",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3395,7 +2883,7 @@
     "group": null
   },
   {
-    "id": "L1112-062",
+    "id": "L1112-052",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3411,7 +2899,7 @@
     "group": null
   },
   {
-    "id": "L1112-063",
+    "id": "L1112-053",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3427,7 +2915,7 @@
     "group": null
   },
   {
-    "id": "L1112-064",
+    "id": "L1112-054",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3443,23 +2931,7 @@
     "group": null
   },
   {
-    "id": "L1112-065",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "Professional engineering is almost always defined to include",
-    "choices": {
-      "A": "Work that involves the utilization of engineering theories",
-      "B": "Providing opinions of engineering matters",
-      "C": "Work that involves safety",
-      "D": "(b) and (c)",
-      "E": "All of the above"
-    },
-    "answer": "E",
-    "group": null
-  },
-  {
-    "id": "L1112-066",
+    "id": "L1112-055",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3475,39 +2947,7 @@
     "group": null
   },
   {
-    "id": "L1112-067",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "Engineers who take on management roles in companies",
-    "choices": {
-      "A": "Can experience high levels of stress due to their managerial responsibilities",
-      "B": "Experience types of ethical conflicts and dilemmas that are no different than those experienced by other engineers in companies",
-      "C": "Usually remain directly concerned with the technical details of engineering activities",
-      "D": "Spend little time dealing with people and the issues and concerns that they have",
-      "E": "None of the above"
-    },
-    "answer": "A",
-    "group": null
-  },
-  {
-    "id": "L1112-068",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "Engineers who take on management roles in companies",
-    "choices": {
-      "A": "Never experience high levels of stress due to their managerial responsibilities",
-      "B": "Sometimes experience types of ethical conflicts and dilemmas that are the same as those experienced by other engineers in companies",
-      "C": "Never deal with the technical details of engineering activities",
-      "D": "Spend little time dealing with decisions involving human resources",
-      "E": "None of the above"
-    },
-    "answer": "B",
-    "group": null
-  },
-  {
-    "id": "L1112-069",
+    "id": "L1112-056",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3523,39 +2963,7 @@
     "group": null
   },
   {
-    "id": "L1112-070",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "A professional engineer in Ontario offering engineering services directly to the public",
-    "choices": {
-      "A": "Requires a Certificate of Authorization",
-      "B": "Always needs professional liability insurance of no less than $1,00,000",
-      "C": "Need not have liability insurance, but then must satisfy other requirements",
-      "D": "(a) and (c)",
-      "E": "None of the above"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L1112-071",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "A professional engineer in Ontario offering engineering services directly to the public",
-    "choices": {
-      "A": "Does not need to have a Certificate of Authorization",
-      "B": "Needs professional liability insurance exceeding $100,000",
-      "C": "Does not need to have liability insurance and does not need to notify clients about this",
-      "D": "(a) and (b)",
-      "E": "None of the above"
-    },
-    "answer": "E",
-    "group": null
-  },
-  {
-    "id": "L1112-072",
+    "id": "L1112-057",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3571,7 +2979,7 @@
     "group": null
   },
   {
-    "id": "L1112-073",
+    "id": "L1112-058",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3587,7 +2995,7 @@
     "group": null
   },
   {
-    "id": "L1112-074",
+    "id": "L1112-059",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3603,23 +3011,7 @@
     "group": null
   },
   {
-    "id": "L1112-075",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "Which of the following statements regarding advertising for engineering work is appropriate?",
-    "choices": {
-      "A": "Advertising that promotes the company offering engineering services by showing pictures that imply the company is responsible for engineering activities in which it was not actually involved",
-      "B": "Advertising that points out weakness in other companies offering engineering services",
-      "C": "Advertising that seeks to gain public attention by exaggerating the abilities of the company to provide engineering services",
-      "D": "Advertising that seeks to increase business opportunities by providing abundant factual information on the company's experiences and qualifications",
-      "E": "None of the above"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L1112-076",
+    "id": "L1112-060",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3634,7 +3026,7 @@
     "group": null
   },
   {
-    "id": "L1112-077",
+    "id": "L1112-061",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3650,7 +3042,7 @@
     "group": null
   },
   {
-    "id": "L1112-078",
+    "id": "L1112-062",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3665,7 +3057,7 @@
     "group": null
   },
   {
-    "id": "L1112-079",
+    "id": "L1112-063",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3681,7 +3073,7 @@
     "group": null
   },
   {
-    "id": "L1112-080",
+    "id": "L1112-064",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3697,7 +3089,7 @@
     "group": null
   },
   {
-    "id": "L1112-081",
+    "id": "L1112-065",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3713,7 +3105,7 @@
     "group": null
   },
   {
-    "id": "L1112-082",
+    "id": "L1112-066",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3729,7 +3121,7 @@
     "group": null
   },
   {
-    "id": "L1112-083",
+    "id": "L1112-067",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3744,35 +3136,7 @@
     "group": null
   },
   {
-    "id": "L1112-084",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "You serve on the board of XYZ Construction Company, which is planning a development in your town. The development has attracted criticism from citizens who called a meeting to organize opposition. You attended the meeting and spoke in favor of the development. Which one of the following options is most consistent with professional ethical principles?",
-    "choices": {
-      "A": "Speak in favor of the development without identifying your affiliation with XYZ, because your support is based solely on the merit of the project",
-      "B": "Speak in favor of the development without identifying your affiliation with XYZ, because you have as much right as anyone in your town to voice your opinion",
-      "C": "Speak in favor of the development and preface your statement by identifying yourself as an engineer whose opinion is supported by engineering analysis, but without identifying your affiliation with XYZ",
-      "D": "Speak in favor of the development and preface your statement by identifying your affiliation with XYZ, also stating you are exercising your right as a citizen"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L1112-085",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "You are a registered engineer working for a large design and construction firm. You would like to be more independent, so you decide to practice your entrepreneurial spirit by taking on very small design contracts on your own, working evenings and weekends to meet the contracts. You do not inform your supervisor of your activity, but your firm would not consider bidding on these small contracts, as they would be more bother than they are worth. Is this a conflict of interest situation?",
-    "choices": {
-      "A": "Yes",
-      "B": "No"
-    },
-    "answer": "A",
-    "group": null
-  },
-  {
-    "id": "L1112-086",
+    "id": "L1112-068",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3787,37 +3151,7 @@
     "group": null
   },
   {
-    "id": "L1112-087",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "Which of the following is NOT a characteristic of a profession?",
-    "choices": {
-      "A": "Specialized knowledge",
-      "B": "Responsibility to the public",
-      "C": "Self-regulation",
-      "D": "High salary"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L1112-088",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "You are presenting the experimental work of a multidisciplinary biomedical research team at an engineering conference. One of your colleagues, Jim, has just completed mathematical modeling of the experimental data two days prior to the presentation and has agreed to let you use the results. Jim's name is not on the paper because the abstract and paper were completed two months prior to the conference. What is the most appropriate way to recognize his contribution?",
-    "choices": {
-      "A": "There is no need to recognize Jim's contribution because the abstract and paper were completed two months prior to the conference",
-      "B": "There is no need to recognize Jim's contribution because he has agreed to let you use his work",
-      "C": "Mention in your talk that the mathematical modeling was carried out by Jim",
-      "D": "Add the statement \"mathematical modeling by Jim\" in the slide"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L1112-089",
+    "id": "L1112-069",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3833,23 +3167,7 @@
     "group": null
   },
   {
-    "id": "L1112-090",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "The purpose of licensing engineering corporation is",
-    "choices": {
-      "A": "Protect the public against incompetence, negligence and professional misconduct",
-      "B": "Identifying the individuals responsible for engineering services",
-      "C": "Allowing the corporation to charge higher engineering fees",
-      "D": "(a) and (b)",
-      "E": "All of the above"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L1112-091",
+    "id": "L1112-070",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3865,7 +3183,7 @@
     "group": null
   },
   {
-    "id": "L1112-092",
+    "id": "L1112-071",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3881,39 +3199,7 @@
     "group": null
   },
   {
-    "id": "L1112-093",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "The appropriate course of action is usually straightforwardly identified for an engineer faced with an ethical dilemma when",
-    "choices": {
-      "A": "The actions involved in the dilemma are illegal and unethical",
-      "B": "The only harm likely to result from the actions involved in the dilemma is financial",
-      "C": "No one is likely to be financially harmed",
-      "D": "All of the above",
-      "E": "None of the above"
-    },
-    "answer": "A",
-    "group": null
-  },
-  {
-    "id": "L1112-094",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "An engineer working in a small company for six years is promoted to the position of Manager of Technical Services in the company. Such an engineer normally",
-    "choices": {
-      "A": "Has less demands on her time and fewer responsibilities than an engineer who works in industry in a non-managerial role",
-      "B": "Has the same demands on her time and the same responsibilities than an engineer who works in industry in a non-managerial role",
-      "C": "Does not experience ethical dilemmas because she is in charge of the company's Technical Services division and can leave day-to-day engineering to others",
-      "D": "(b) and (c)",
-      "E": "None of the above"
-    },
-    "answer": "E",
-    "group": null
-  },
-  {
-    "id": "L1112-095",
+    "id": "L1112-072",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "multiple_choice",
@@ -3929,84 +3215,7 @@
     "group": null
   },
   {
-    "id": "L1112-096",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "The Code of Ethics of Professional Engineers Ontario and the IEEE Code of Ethics",
-    "choices": {
-      "A": "Have differences related to the different mandates of PEO and IEEE",
-      "B": "Are equally important",
-      "C": "Are approved by a common committee for engineering ethics",
-      "D": "Both relate to licensing",
-      "E": "(a), (b) and (d)"
-    },
-    "answer": "A",
-    "group": null
-  },
-  {
-    "id": "L1112-097",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "Engineers who take on management roles in research laboratories of the federal governments sometimes must address",
-    "choices": {
-      "A": "Ethical dilemmas faced by their employees",
-      "B": "Issues involving human resources",
-      "C": "Decisions involving financial and material resources",
-      "D": "All of the above",
-      "E": "None of the above"
-    },
-    "answer": "D",
-    "group": null
-  },
-  {
-    "id": "L1112-098",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "An engineer who is an employee of a company should, as consequence of an engineer's duty to his employer",
-    "choices": {
-      "A": "Accept all assignments given to him, regardless of what is asked",
-      "B": "Dispute the company's requests when called for, but no more than once a year",
-      "C": "Learn about new engineering process of relevance to the employer's business activities",
-      "D": "(a) and (b)",
-      "E": "None of the above"
-    },
-    "answer": "C",
-    "group": null
-  },
-  {
-    "id": "L1112-099",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "multiple_choice",
-    "question": "As a consequence of an engineer's duty to one's employer, an engineer who is an employee of a company",
-    "choices": {
-      "A": "Cannot take part in a strike against the employer",
-      "B": "Can be part of a labor union",
-      "C": "Cannot help expand the membership of the labor union",
-      "D": "All of the above",
-      "E": "None of the above"
-    },
-    "answer": "B",
-    "group": null
-  },
-  {
-    "id": "L1112-100",
-    "source": "Lecture 11 & 12",
-    "topic": "Lecture 11 & 12",
-    "type": "true_false",
-    "question": "Ethical behavior is timeless and universal",
-    "choices": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A",
-    "group": null
-  },
-  {
-    "id": "L1112-101",
+    "id": "L1112-073",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4019,7 +3228,7 @@
     "group": null
   },
   {
-    "id": "L1112-102",
+    "id": "L1112-074",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4032,7 +3241,7 @@
     "group": null
   },
   {
-    "id": "L1112-103",
+    "id": "L1112-075",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4045,7 +3254,7 @@
     "group": null
   },
   {
-    "id": "L1112-104",
+    "id": "L1112-076",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4058,7 +3267,7 @@
     "group": null
   },
   {
-    "id": "L1112-105",
+    "id": "L1112-077",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4071,7 +3280,7 @@
     "group": null
   },
   {
-    "id": "L1112-106",
+    "id": "L1112-078",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4084,7 +3293,7 @@
     "group": null
   },
   {
-    "id": "L1112-107",
+    "id": "L1112-079",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4097,7 +3306,7 @@
     "group": null
   },
   {
-    "id": "L1112-108",
+    "id": "L1112-080",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4110,7 +3319,7 @@
     "group": null
   },
   {
-    "id": "L1112-109",
+    "id": "L1112-081",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4123,7 +3332,7 @@
     "group": null
   },
   {
-    "id": "L1112-110",
+    "id": "L1112-082",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4136,7 +3345,7 @@
     "group": null
   },
   {
-    "id": "L1112-111",
+    "id": "L1112-083",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4149,7 +3358,7 @@
     "group": null
   },
   {
-    "id": "L1112-112",
+    "id": "L1112-084",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4162,7 +3371,7 @@
     "group": null
   },
   {
-    "id": "L1112-113",
+    "id": "L1112-085",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4175,7 +3384,7 @@
     "group": null
   },
   {
-    "id": "L1112-114",
+    "id": "L1112-086",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4188,7 +3397,7 @@
     "group": null
   },
   {
-    "id": "L1112-115",
+    "id": "L1112-087",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4201,7 +3410,7 @@
     "group": null
   },
   {
-    "id": "L1112-116",
+    "id": "L1112-088",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4214,7 +3423,7 @@
     "group": null
   },
   {
-    "id": "L1112-117",
+    "id": "L1112-089",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4227,7 +3436,7 @@
     "group": null
   },
   {
-    "id": "L1112-118",
+    "id": "L1112-090",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4240,7 +3449,7 @@
     "group": null
   },
   {
-    "id": "L1112-119",
+    "id": "L1112-091",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4253,7 +3462,7 @@
     "group": null
   },
   {
-    "id": "L1112-120",
+    "id": "L1112-092",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4266,7 +3475,7 @@
     "group": null
   },
   {
-    "id": "L1112-121",
+    "id": "L1112-093",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4279,7 +3488,7 @@
     "group": null
   },
   {
-    "id": "L1112-122",
+    "id": "L1112-094",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4292,7 +3501,7 @@
     "group": null
   },
   {
-    "id": "L1112-123",
+    "id": "L1112-095",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
@@ -4305,7 +3514,7 @@
     "group": null
   },
   {
-    "id": "L1112-124",
+    "id": "L1112-096",
     "source": "Lecture 11 & 12",
     "topic": "Lecture 11 & 12",
     "type": "true_false",
