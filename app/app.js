@@ -8,6 +8,11 @@ const DECKS = [
   { key: "ALL", label: "All Randomized", match: () => true },
 ];
 
+const MODES = [
+  { key: "RANDOM", label: "Randomized", randomized: true },
+  { key: "ORDERED", label: "In order", randomized: false },
+];
+
 const STORAGE_KEY = "cen800.quiz.state.v1";
 const STORAGE_VERSION = 1;
 
@@ -20,6 +25,7 @@ const els = {
   progress: document.getElementById("progress"),
   score: document.getElementById("score"),
   deckPicker: document.getElementById("deck-picker"),
+  modePicker: document.getElementById("mode-picker"),
   startBtn: document.getElementById("start-btn"),
   bankStatus: document.getElementById("bank-status"),
   scenario: document.getElementById("scenario"),
@@ -38,6 +44,7 @@ const els = {
 const state = {
   bank: [],
   selectedDeck: null,
+  selectedMode: MODES[0],
   session: null,
 };
 
@@ -48,6 +55,7 @@ function persistState() {
     const payload = {
       version: STORAGE_VERSION,
       selectedDeckKey: state.selectedDeck ? state.selectedDeck.key : null,
+      selectedModeKey: state.selectedMode ? state.selectedMode.key : MODES[0].key,
       session: state.session
         ? {
             label: state.session.label,
@@ -143,6 +151,11 @@ function restorePersistedState() {
       deckRestored = true;
     }
   }
+  if (typeof payload.selectedModeKey === "string") {
+    const mode = MODES.find((m) => m.key === payload.selectedModeKey) || null;
+    if (mode) state.selectedMode = mode;
+  }
+  applySelectedModeUI();
 
   const session = deserializeSession(payload.session);
   if (!session) {
@@ -224,6 +237,24 @@ function renderDeckPicker() {
   applySelectedDeckUI();
 }
 
+function renderModePicker() {
+  els.modePicker.innerHTML = "";
+  for (const mode of MODES) {
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "mode-option";
+    btn.dataset.key = mode.key;
+    btn.textContent = mode.label;
+    btn.addEventListener("click", () => {
+      state.selectedMode = mode;
+      applySelectedModeUI();
+      persistState();
+    });
+    els.modePicker.appendChild(btn);
+  }
+  applySelectedModeUI();
+}
+
 function applySelectedDeckUI() {
   document
     .querySelectorAll(".deck-option")
@@ -244,17 +275,38 @@ function applySelectedDeckUI() {
   els.startBtn.disabled = false;
 }
 
+function applySelectedModeUI() {
+  document
+    .querySelectorAll(".mode-option")
+    .forEach((el) => el.classList.remove("selected"));
+  if (!state.selectedMode) state.selectedMode = MODES[0];
+  const selectedBtn = document.querySelector(
+    `.mode-option[data-key="${state.selectedMode.key}"]`
+  );
+  if (!selectedBtn) {
+    state.selectedMode = MODES[0];
+    return applySelectedModeUI();
+  }
+  selectedBtn.classList.add("selected");
+}
+
 /* ---------- session ---------- */
 
 function buildSessionFromDeck(deck) {
   const pool = state.bank.filter(deck.match);
-  return buildSession(pool, deck.label);
+  const selectedMode = state.selectedMode || MODES[0];
+  return buildSession(pool, deck.label, {
+    randomized: selectedMode.randomized,
+  });
 }
 
-function buildSession(pool, label, { keepGroups = true } = {}) {
+function buildSession(pool, label, { keepGroups = true, randomized = true } = {}) {
+  const queue = randomized
+    ? (keepGroups ? shuffleWithGroups(pool) : shuffle(pool))
+    : pool.slice();
   return {
     label,
-    queue: keepGroups ? shuffleWithGroups(pool) : shuffle(pool),
+    queue,
     index: 0,
     correct: 0,
     answered: [],
@@ -459,10 +511,8 @@ function goHome() {
   els.results.hidden = true;
   els.sessionInfo.hidden = true;
   els.landing.hidden = false;
-  els.startBtn.disabled = true;
-  document
-    .querySelectorAll(".deck-option")
-    .forEach((el) => el.classList.remove("selected"));
+  applySelectedDeckUI();
+  applySelectedModeUI();
   persistState();
 }
 
@@ -472,7 +522,10 @@ function retryMissed() {
   if (!missed.length) return;
   // For missed-only retry we allow plain shuffling since the group may be
   // incomplete (user may only have missed some of a scenario's questions).
-  startSession(buildSession(missed, `${s.label} (missed)`, { keepGroups: false }));
+  startSession(buildSession(missed, `${s.label} (missed)`, {
+    keepGroups: false,
+    randomized: state.selectedMode ? state.selectedMode.randomized : true,
+  }));
 }
 
 function restartSameDeck() {
@@ -515,6 +568,7 @@ els.homeBtn.addEventListener("click", goHome);
       return;
     }
     renderDeckPicker();
+    renderModePicker();
     const restored = restorePersistedState();
     if (restored.sessionRestored) {
       els.bankStatus.textContent =

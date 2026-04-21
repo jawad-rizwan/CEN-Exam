@@ -81,6 +81,13 @@ body {
   font-size: 14px;
 }
 
+.section-label {
+  margin: 0 0 8px;
+  font-size: 14px;
+  color: var(--muted);
+  font-weight: 600;
+}
+
 /* Deck picker */
 .deck-picker {
   display: grid;
@@ -115,6 +122,33 @@ body {
 .deck-option .count {
   color: var(--muted);
   font-size: 13px;
+}
+
+/* Mode picker */
+.mode-picker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 0 20px;
+}
+
+.mode-option {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 14px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.mode-option:hover {
+  border-color: var(--primary);
+}
+
+.mode-option.selected {
+  border-color: var(--primary);
+  background: #eef4ff;
 }
 
 /* Buttons */
