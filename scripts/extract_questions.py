@@ -27,11 +27,12 @@ OUT_FILE = DATA_DIR / "question_bank.json"
 
 # Maps each PDF filename to (source, topic, id_prefix).
 # The project spec uses "Lecture" (singular); real files use "Lectures".
-# We accept either spelling.
+# Some files have been revised; the " V2" variants replace the originals.
 FILE_MAP = {
     "Lectures 7 & 8 - Part 1.pdf": ("Lecture 7 & 8", "Lecture 7 & 8", "L78"),
     "Lectures 7 & 8 - Part 2.pdf": ("Lecture 7 & 8", "Lecture 7 & 8", "L78"),
     "Lectures 7 & 8 - Part 3.pdf": ("Lecture 7 & 8", "Lecture 7 & 8", "L78"),
+    "Lectures 7 & 8 - Part 3 V2.pdf": ("Lecture 7 & 8", "Lecture 7 & 8", "L78"),
     "Lecture 7 & 8 - Part 1.pdf": ("Lecture 7 & 8", "Lecture 7 & 8", "L78"),
     "Lecture 7 & 8 - Part 2.pdf": ("Lecture 7 & 8", "Lecture 7 & 8", "L78"),
     "Lecture 7 & 8 - Part 3.pdf": ("Lecture 7 & 8", "Lecture 7 & 8", "L78"),
@@ -42,14 +43,16 @@ FILE_MAP = {
     "Lectures 11 & 12.pdf": ("Lecture 11 & 12", "Lecture 11 & 12", "L1112"),
     "Lecture 11 & 12.pdf": ("Lecture 11 & 12", "Lecture 11 & 12", "L1112"),
     "Extra Questions.pdf": ("Extra", "Extra Questions", "EXT"),
+    "Extra Questions V2.pdf": ("Extra", "Extra Questions", "EXT"),
 }
 
-# Processing order so IDs are stable.
+# Processing order so IDs are stable. V2 files take the slot of the originals.
 PROCESS_ORDER = [
     "Lectures 7 & 8 - Part 1.pdf",
     "Lecture 7 & 8 - Part 1.pdf",
     "Lectures 7 & 8 - Part 2.pdf",
     "Lecture 7 & 8 - Part 2.pdf",
+    "Lectures 7 & 8 - Part 3 V2.pdf",
     "Lectures 7 & 8 - Part 3.pdf",
     "Lecture 7 & 8 - Part 3.pdf",
     "Lectures 9 & 10 - Part 1.pdf",
@@ -58,6 +61,7 @@ PROCESS_ORDER = [
     "Lecture 9 & 10 - Part 2.pdf",
     "Lectures 11 & 12.pdf",
     "Lecture 11 & 12.pdf",
+    "Extra Questions V2.pdf",
     "Extra Questions.pdf",
 ]
 
@@ -94,8 +98,9 @@ def load_pdf_text(path: Path) -> str:
 
 # -------- parsing --------
 
-# Matches a question start at beginning of a line: "12. ..."
-QUESTION_START = re.compile(r"^(\d+)\.\s+(.*)$")
+# Matches a question start at beginning of a line: "12. ...". Allowing up to
+# three digits avoids matching things like "Furnace 3000." in a scenario body.
+QUESTION_START = re.compile(r"^(\d{1,3})\.\s+(.*)$")
 # Matches a choice line: " a) ..." or "a) ..."
 CHOICE_LINE = re.compile(r"^\s*([a-eA-E])\)\s*(.*)$")
 # Matches an answer line: "Answer: b" possibly followed by whitespace.
@@ -254,11 +259,18 @@ def parse_questions(text: str) -> tuple[list[dict], list[tuple[str, str]]]:
                 start_scenario(tail)
             continue
 
-        # Free-text line outside a question block = scenario header for the
-        # questions that follow (e.g. "Hot Furnaces R Us").
+        # Free-text line outside a question block. If we don't yet have a
+        # scenario, this line starts one. If we already have a scenario but
+        # haven't seen the next question, this is another paragraph of the
+        # same scenario body - append it rather than starting a new block.
         if current is None:
             if not line.lower().startswith(("answer", "questions ")):
-                start_scenario(line.strip())
+                if current_scenario is not None:
+                    current_scenario = (
+                        current_scenario + " " + line.strip()
+                    ).rstrip(".")
+                else:
+                    start_scenario(line.strip())
         else:
             # Inside a question but before any choices or answer: stem continuation.
             if not current["choices"] and current["answer"] is None:

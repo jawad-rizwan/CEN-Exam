@@ -176,6 +176,8 @@ body {
   color: #334155;
   margin-bottom: 12px;
   white-space: pre-wrap;
+  max-height: 260px;
+  overflow-y: auto;
 }
 
 .question {

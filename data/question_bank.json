@@ -1055,6 +1055,340 @@
     "id": "L78-067",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 26 to 30 A provincial agency issues a request for proposals for the design and construction of a new highway overpass in a rapidly growing urban area. Because the overpass will carry a large volume of daily traffic, including public transit vehicles and emergency services, the project is regarded as one with important public safety implications. The agency invites several engineering firms to submit bids and states in its proposal documents that cost will be a significant factor in the evaluation, but not necessarily the deciding factor. It also states that all proposals must satisfy the required engineering, safety, and performance standards. Three firms are selected as finalists: the Allied Corporation, Mikie Incorporated, and the O'Leary Company. After reviewing the submissions, the provincial agency awards the contract to the O'Leary Company. The O'Leary proposal is the lowest-cost bid of the three, but the agency explains that the proposal was accepted because, in its judgment, it met the technical requirements, addressed public safety appropriately, and represented the best overall value. Some principals at the Allied Corporation and Mikie Incorporated are troubled by the result. They believe that a significantly lower bid on a project of this kind could suggest that corners may have been cut or that the design may not provide the same margin of safety or quality as the other proposals. Others point out that the provincial agency had clearly stated from the beginning that cost would be an important consideration, and that any firm submitting a proposal had an obligation to remain competitive while still meeting the required standards. Suppose that a principal at the Allied Corporation is especially concerned that the public could be put at risk if the winning firm underestimated the true cost of completing the project safely. Suppose also that, after the decision is announced, the Allied Corporation and Mikie Incorporated file a protest and call for a public hearing. At the hearing, questions are raised about whether the O'Leary Company was sufficiently qualified, whether the provincial agency acted consistently with its stated evaluation criteria, and whether a low-cost proposal for this type of public project can still meet proper engineering and safety standards] If you are a principal in the Allied Corporation, you should",
+    "choices": {
+      "A": "Express your concerns to all stakeholders involved in the proposal process, with the request that assurances be made that the safety of the public will not be jeopardized",
+      "B": "Quit your job and try to get one with the O'Leary Company",
+      "C": "Launch a lawsuit against Mikie Incorporated for putting forward such a high-cost proposal",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "A",
+    "group": "L78-grp-2"
+  },
+  {
+    "id": "L78-068",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 26 to 30 A provincial agency issues a request for proposals for the design and construction of a new highway overpass in a rapidly growing urban area. Because the overpass will carry a large volume of daily traffic, including public transit vehicles and emergency services, the project is regarded as one with important public safety implications. The agency invites several engineering firms to submit bids and states in its proposal documents that cost will be a significant factor in the evaluation, but not necessarily the deciding factor. It also states that all proposals must satisfy the required engineering, safety, and performance standards. Three firms are selected as finalists: the Allied Corporation, Mikie Incorporated, and the O'Leary Company. After reviewing the submissions, the provincial agency awards the contract to the O'Leary Company. The O'Leary proposal is the lowest-cost bid of the three, but the agency explains that the proposal was accepted because, in its judgment, it met the technical requirements, addressed public safety appropriately, and represented the best overall value. Some principals at the Allied Corporation and Mikie Incorporated are troubled by the result. They believe that a significantly lower bid on a project of this kind could suggest that corners may have been cut or that the design may not provide the same margin of safety or quality as the other proposals. Others point out that the provincial agency had clearly stated from the beginning that cost would be an important consideration, and that any firm submitting a proposal had an obligation to remain competitive while still meeting the required standards. Suppose that a principal at the Allied Corporation is especially concerned that the public could be put at risk if the winning firm underestimated the true cost of completing the project safely. Suppose also that, after the decision is announced, the Allied Corporation and Mikie Incorporated file a protest and call for a public hearing. At the hearing, questions are raised about whether the O'Leary Company was sufficiently qualified, whether the provincial agency acted consistently with its stated evaluation criteria, and whether a low-cost proposal for this type of public project can still meet proper engineering and safety standards] If, following the decision, the Allied Corporation and Mikie Incorporated file a protest with the agency and call for a public hearing based on the ideas expressed above, how would you respond if you were a principal with the O'Leary Company?",
+    "choices": {
+      "A": "Explain how the qualifications of your company were vetted by the provincial agency and deemed acceptable for inclusion in the three finalists",
+      "B": "Explain that the costs of your company's bid were kept as low as reasonably possible because the provincial agency stated cost would be a significant factor",
+      "C": "Explain how the project can be done safely and to proper engineering standards for the cost your company put forward in its bid",
+      "D": "(a) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "E",
+    "group": "L78-grp-2"
+  },
+  {
+    "id": "L78-069",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 26 to 30 A provincial agency issues a request for proposals for the design and construction of a new highway overpass in a rapidly growing urban area. Because the overpass will carry a large volume of daily traffic, including public transit vehicles and emergency services, the project is regarded as one with important public safety implications. The agency invites several engineering firms to submit bids and states in its proposal documents that cost will be a significant factor in the evaluation, but not necessarily the deciding factor. It also states that all proposals must satisfy the required engineering, safety, and performance standards. Three firms are selected as finalists: the Allied Corporation, Mikie Incorporated, and the O'Leary Company. After reviewing the submissions, the provincial agency awards the contract to the O'Leary Company. The O'Leary proposal is the lowest-cost bid of the three, but the agency explains that the proposal was accepted because, in its judgment, it met the technical requirements, addressed public safety appropriately, and represented the best overall value. Some principals at the Allied Corporation and Mikie Incorporated are troubled by the result. They believe that a significantly lower bid on a project of this kind could suggest that corners may have been cut or that the design may not provide the same margin of safety or quality as the other proposals. Others point out that the provincial agency had clearly stated from the beginning that cost would be an important consideration, and that any firm submitting a proposal had an obligation to remain competitive while still meeting the required standards. Suppose that a principal at the Allied Corporation is especially concerned that the public could be put at risk if the winning firm underestimated the true cost of completing the project safely. Suppose also that, after the decision is announced, the Allied Corporation and Mikie Incorporated file a protest and call for a public hearing. At the hearing, questions are raised about whether the O'Leary Company was sufficiently qualified, whether the provincial agency acted consistently with its stated evaluation criteria, and whether a low-cost proposal for this type of public project can still meet proper engineering and safety standards] Should the provincial agency have accepted this bid after maintaining that cost would not be the overriding factor?",
+    "choices": {
+      "A": "Yes, if all relevant factors were considered carefully and fairly in picking the winning bid",
+      "B": "Yes, if the bid was the best in overall terms",
+      "C": "No, because the bid had the lowest cost",
+      "D": "No, even if the bid was the best in overall terms because it nonetheless had the lowest cost",
+      "E": "(a) and (b)"
+    },
+    "answer": "E",
+    "group": "L78-grp-2"
+  },
+  {
+    "id": "L78-070",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 26 to 30 A provincial agency issues a request for proposals for the design and construction of a new highway overpass in a rapidly growing urban area. Because the overpass will carry a large volume of daily traffic, including public transit vehicles and emergency services, the project is regarded as one with important public safety implications. The agency invites several engineering firms to submit bids and states in its proposal documents that cost will be a significant factor in the evaluation, but not necessarily the deciding factor. It also states that all proposals must satisfy the required engineering, safety, and performance standards. Three firms are selected as finalists: the Allied Corporation, Mikie Incorporated, and the O'Leary Company. After reviewing the submissions, the provincial agency awards the contract to the O'Leary Company. The O'Leary proposal is the lowest-cost bid of the three, but the agency explains that the proposal was accepted because, in its judgment, it met the technical requirements, addressed public safety appropriately, and represented the best overall value. Some principals at the Allied Corporation and Mikie Incorporated are troubled by the result. They believe that a significantly lower bid on a project of this kind could suggest that corners may have been cut or that the design may not provide the same margin of safety or quality as the other proposals. Others point out that the provincial agency had clearly stated from the beginning that cost would be an important consideration, and that any firm submitting a proposal had an obligation to remain competitive while still meeting the required standards. Suppose that a principal at the Allied Corporation is especially concerned that the public could be put at risk if the winning firm underestimated the true cost of completing the project safely. Suppose also that, after the decision is announced, the Allied Corporation and Mikie Incorporated file a protest and call for a public hearing. At the hearing, questions are raised about whether the O'Leary Company was sufficiently qualified, whether the provincial agency acted consistently with its stated evaluation criteria, and whether a low-cost proposal for this type of public project can still meet proper engineering and safety standards] The stipulation by the provincial agency that cost will be a significant factor in evaluating bids but not necessarily the deciding factor",
+    "choices": {
+      "A": "Is unethical because it encourages cutting corners in designs to achieve the lowest bid",
+      "B": "Is ethical because it encourages containing costs in designs to achieve a low bid while still meeting the design objectives",
+      "C": "Means all the bidding companies can win the competition if they can achieve the lowest cost bid",
+      "D": "Puts the safety of the public at risk",
+      "E": "All of the above"
+    },
+    "answer": "E",
+    "group": "L78-grp-2"
+  },
+  {
+    "id": "L78-071",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 26 to 30 A provincial agency issues a request for proposals for the design and construction of a new highway overpass in a rapidly growing urban area. Because the overpass will carry a large volume of daily traffic, including public transit vehicles and emergency services, the project is regarded as one with important public safety implications. The agency invites several engineering firms to submit bids and states in its proposal documents that cost will be a significant factor in the evaluation, but not necessarily the deciding factor. It also states that all proposals must satisfy the required engineering, safety, and performance standards. Three firms are selected as finalists: the Allied Corporation, Mikie Incorporated, and the O'Leary Company. After reviewing the submissions, the provincial agency awards the contract to the O'Leary Company. The O'Leary proposal is the lowest-cost bid of the three, but the agency explains that the proposal was accepted because, in its judgment, it met the technical requirements, addressed public safety appropriately, and represented the best overall value. Some principals at the Allied Corporation and Mikie Incorporated are troubled by the result. They believe that a significantly lower bid on a project of this kind could suggest that corners may have been cut or that the design may not provide the same margin of safety or quality as the other proposals. Others point out that the provincial agency had clearly stated from the beginning that cost would be an important consideration, and that any firm submitting a proposal had an obligation to remain competitive while still meeting the required standards. Suppose that a principal at the Allied Corporation is especially concerned that the public could be put at risk if the winning firm underestimated the true cost of completing the project safely. Suppose also that, after the decision is announced, the Allied Corporation and Mikie Incorporated file a protest and call for a public hearing. At the hearing, questions are raised about whether the O'Leary Company was sufficiently qualified, whether the provincial agency acted consistently with its stated evaluation criteria, and whether a low-cost proposal for this type of public project can still meet proper engineering and safety standards] What information would be relevant to your ethics assessment of this case?",
+    "choices": {
+      "A": "The engineering competency of the bidding firms",
+      "B": "The salaries paid to the presidents of the bidding firms over the last year",
+      "C": "How public safety is addressed in the proposals",
+      "D": "(a) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "D",
+    "group": "L78-grp-2"
+  },
+  {
+    "id": "L78-072",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 31 to 35 Engineer Alpha is employed by a large consulting engineering firm and is responsible for reviewing and recommending components for use in a municipal water distribution project. As part of his duties, Alpha evaluates several types of industrial valves offered by different manufacturers. After considering the technical specifications, performance history, and project requirements, Alpha recommends that a particular manufacturer's valves be specified for the project, and a large number of these valves are subsequently purchased Some time after the valves have been specified and purchased, a salesperson from the valve manufacturer visits Alpha. During the visit, the salesperson thanks Alpha for his company's business and offers Alpha an all-expenses-paid trip to a resort outside the country. The trip would include airfare, hotel accommodation, meals, and entertainment. The salesperson explains that the trip is intended as a gesture of appreciation for Alpha's support of the manufacturer's products and says that several other engineers from different firms have also been invited. Alpha realizes that he made his recommendation before knowing anything about the proposed trip. Nevertheless, he wonders whether accepting such a generous gift could create an ethical problem. He considers whether accepting the invitation might affect, or appear to affect, his independent professional judgment in future decisions involving the same manufacturer. He also considers whether members of the public, his employer, or other suppliers might reasonably view his acceptance of the trip as improper or as placing him in a conflict of interest. Suppose that Alpha accepts the trip and later continues to participate in engineering decisions involving similar valve products from the same manufacturer] Engineer Alpha can",
+    "choices": {
+      "A": "Accept the trip, since he selected the valves without knowledge of this invitation",
+      "B": "Contact his supervisor and ask for permission in accepting the trip",
+      "C": "Not accept such a big gift",
+      "D": "Be perceived publicly as not behaving ethically if he accepts the gift",
+      "E": "Both (c) and (d)"
+    },
+    "answer": "E",
+    "group": "L78-grp-3"
+  },
+  {
+    "id": "L78-073",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 31 to 35 Engineer Alpha is employed by a large consulting engineering firm and is responsible for reviewing and recommending components for use in a municipal water distribution project. As part of his duties, Alpha evaluates several types of industrial valves offered by different manufacturers. After considering the technical specifications, performance history, and project requirements, Alpha recommends that a particular manufacturer's valves be specified for the project, and a large number of these valves are subsequently purchased Some time after the valves have been specified and purchased, a salesperson from the valve manufacturer visits Alpha. During the visit, the salesperson thanks Alpha for his company's business and offers Alpha an all-expenses-paid trip to a resort outside the country. The trip would include airfare, hotel accommodation, meals, and entertainment. The salesperson explains that the trip is intended as a gesture of appreciation for Alpha's support of the manufacturer's products and says that several other engineers from different firms have also been invited. Alpha realizes that he made his recommendation before knowing anything about the proposed trip. Nevertheless, he wonders whether accepting such a generous gift could create an ethical problem. He considers whether accepting the invitation might affect, or appear to affect, his independent professional judgment in future decisions involving the same manufacturer. He also considers whether members of the public, his employer, or other suppliers might reasonably view his acceptance of the trip as improper or as placing him in a conflict of interest. Suppose that Alpha accepts the trip and later continues to participate in engineering decisions involving similar valve products from the same manufacturer] If Engineer Alpha accepts the trip",
+    "choices": {
+      "A": "His behavior is unlawful and disgraceful",
+      "B": "He is guilty of professional misconduct",
+      "C": "He is endangering the public",
+      "D": "He may be in breach of the Code of Ethics",
+      "E": "None of the above"
+    },
+    "answer": "D",
+    "group": "L78-grp-3"
+  },
+  {
+    "id": "L78-074",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 31 to 35 Engineer Alpha is employed by a large consulting engineering firm and is responsible for reviewing and recommending components for use in a municipal water distribution project. As part of his duties, Alpha evaluates several types of industrial valves offered by different manufacturers. After considering the technical specifications, performance history, and project requirements, Alpha recommends that a particular manufacturer's valves be specified for the project, and a large number of these valves are subsequently purchased Some time after the valves have been specified and purchased, a salesperson from the valve manufacturer visits Alpha. During the visit, the salesperson thanks Alpha for his company's business and offers Alpha an all-expenses-paid trip to a resort outside the country. The trip would include airfare, hotel accommodation, meals, and entertainment. The salesperson explains that the trip is intended as a gesture of appreciation for Alpha's support of the manufacturer's products and says that several other engineers from different firms have also been invited. Alpha realizes that he made his recommendation before knowing anything about the proposed trip. Nevertheless, he wonders whether accepting such a generous gift could create an ethical problem. He considers whether accepting the invitation might affect, or appear to affect, his independent professional judgment in future decisions involving the same manufacturer. He also considers whether members of the public, his employer, or other suppliers might reasonably view his acceptance of the trip as improper or as placing him in a conflict of interest. Suppose that Alpha accepts the trip and later continues to participate in engineering decisions involving similar valve products from the same manufacturer] If Engineer Alpha is taking the trip, he is",
+    "choices": {
+      "A": "Acting as a faithful agent for his employer",
+      "B": "Acting in the public interest",
+      "C": "Acting in his own interest",
+      "D": "In a situation that may be perceived as a conflict of interest",
+      "E": "Both (c) and (d)"
+    },
+    "answer": "E",
+    "group": "L78-grp-3"
+  },
+  {
+    "id": "L78-075",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 31 to 35 Engineer Alpha is employed by a large consulting engineering firm and is responsible for reviewing and recommending components for use in a municipal water distribution project. As part of his duties, Alpha evaluates several types of industrial valves offered by different manufacturers. After considering the technical specifications, performance history, and project requirements, Alpha recommends that a particular manufacturer's valves be specified for the project, and a large number of these valves are subsequently purchased Some time after the valves have been specified and purchased, a salesperson from the valve manufacturer visits Alpha. During the visit, the salesperson thanks Alpha for his company's business and offers Alpha an all-expenses-paid trip to a resort outside the country. The trip would include airfare, hotel accommodation, meals, and entertainment. The salesperson explains that the trip is intended as a gesture of appreciation for Alpha's support of the manufacturer's products and says that several other engineers from different firms have also been invited. Alpha realizes that he made his recommendation before knowing anything about the proposed trip. Nevertheless, he wonders whether accepting such a generous gift could create an ethical problem. He considers whether accepting the invitation might affect, or appear to affect, his independent professional judgment in future decisions involving the same manufacturer. He also considers whether members of the public, his employer, or other suppliers might reasonably view his acceptance of the trip as improper or as placing him in a conflict of interest. Suppose that Alpha accepts the trip and later continues to participate in engineering decisions involving similar valve products from the same manufacturer] In judging the above case, which Code of Ethics paragraphs apply?",
+    "choices": {
+      "A": "4",
+      "B": "7.i",
+      "C": "7.iv",
+      "D": "(a) and (c)",
+      "E": "8"
+    },
+    "answer": "D",
+    "group": "L78-grp-3"
+  },
+  {
+    "id": "L78-076",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 31 to 35 Engineer Alpha is employed by a large consulting engineering firm and is responsible for reviewing and recommending components for use in a municipal water distribution project. As part of his duties, Alpha evaluates several types of industrial valves offered by different manufacturers. After considering the technical specifications, performance history, and project requirements, Alpha recommends that a particular manufacturer's valves be specified for the project, and a large number of these valves are subsequently purchased Some time after the valves have been specified and purchased, a salesperson from the valve manufacturer visits Alpha. During the visit, the salesperson thanks Alpha for his company's business and offers Alpha an all-expenses-paid trip to a resort outside the country. The trip would include airfare, hotel accommodation, meals, and entertainment. The salesperson explains that the trip is intended as a gesture of appreciation for Alpha's support of the manufacturer's products and says that several other engineers from different firms have also been invited. Alpha realizes that he made his recommendation before knowing anything about the proposed trip. Nevertheless, he wonders whether accepting such a generous gift could create an ethical problem. He considers whether accepting the invitation might affect, or appear to affect, his independent professional judgment in future decisions involving the same manufacturer. He also considers whether members of the public, his employer, or other suppliers might reasonably view his acceptance of the trip as improper or as placing him in a conflict of interest. Suppose that Alpha accepts the trip and later continues to participate in engineering decisions involving similar valve products from the same manufacturer] If the last paragraph of the above case study read as follows: after a large number of valves had been specified and purchased, the salesperson of the valve manufacturer visited Alpha and invited him to participate in a seminar describing new improved products. The seminar would take place at a hotel in town and would be followed by a cocktail reception and dinner. Alpha attends the seminar. His behavior is",
+    "choices": {
+      "A": "Unethical, because by attending the free seminar he will recommend the product",
+      "B": "Not a compromise of the engineer's independent professional judgment",
+      "C": "Ethical, because the cocktail reception and dinner are a courtesy provided to engineers in the area",
+      "D": "An opportunity to become educated on a particular topic",
+      "E": "(b), (c), and (d)"
+    },
+    "answer": "E",
+    "group": "L78-grp-3"
+  },
+  {
+    "id": "L78-077",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 36 to 40 Omega is a professional engineer employed by ABC Manufacturing Company, a firm that produces specialized metal components for industrial equipment. ABC has entered into a contract with Good Engineering Company to manufacture and supply a large shipment of precision parts that will eventually be used by XYZ in a system where reliability and safety are important. The contract documents and technical specifications clearly state the type and grade of metal alloy that must be used in fabricating the parts. During production, Sigma, Omega's supervisor at ABC, becomes concerned that the specified alloy is too expensive and will reduce the company's profit on the contract. Sigma instructs production staff to substitute a cheaper alloy that is similar in appearance but does not meet the agreed specifications. Sigma tells Omega that the substitute material should still be \"good enough\" for the intended purpose and says that the change is necessary if ABC is to remain competitive and profitable. Omega is troubled by this instruction because he knows that the parts no longer meet the contract requirements and that the customer has not approved any such substitution. Omega raises concerns internally, pointing out that the use of a cheaper alloy may affect performance, may mislead the customer, and may expose both the company and the engineers involved to serious ethical and legal consequences. Sigma dismisses Omega's concerns and insists that the shipment proceed as planned. As the shipment is being prepared for delivery to Good Engineering Company, Omega is asked to sign a report certifying that the parts comply with the contractual specifications. Omega now must decide whether he can ethically sign the report, whether refusing to do so is enough, and what responsibilities he has in light of the company's decision to proceed with the cheaper parts] Omega has an ethical dilemma relating to the following paragraphs of the Code of Ethics",
+    "choices": {
+      "A": "1.i",
+      "B": "1.iii",
+      "C": "3",
+      "D": "7.i",
+      "E": "All of the above"
+    },
+    "answer": "E",
+    "group": "L78-grp-4"
+  },
+  {
+    "id": "L78-078",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 36 to 40 Omega is a professional engineer employed by ABC Manufacturing Company, a firm that produces specialized metal components for industrial equipment. ABC has entered into a contract with Good Engineering Company to manufacture and supply a large shipment of precision parts that will eventually be used by XYZ in a system where reliability and safety are important. The contract documents and technical specifications clearly state the type and grade of metal alloy that must be used in fabricating the parts. During production, Sigma, Omega's supervisor at ABC, becomes concerned that the specified alloy is too expensive and will reduce the company's profit on the contract. Sigma instructs production staff to substitute a cheaper alloy that is similar in appearance but does not meet the agreed specifications. Sigma tells Omega that the substitute material should still be \"good enough\" for the intended purpose and says that the change is necessary if ABC is to remain competitive and profitable. Omega is troubled by this instruction because he knows that the parts no longer meet the contract requirements and that the customer has not approved any such substitution. Omega raises concerns internally, pointing out that the use of a cheaper alloy may affect performance, may mislead the customer, and may expose both the company and the engineers involved to serious ethical and legal consequences. Sigma dismisses Omega's concerns and insists that the shipment proceed as planned. As the shipment is being prepared for delivery to Good Engineering Company, Omega is asked to sign a report certifying that the parts comply with the contractual specifications. Omega now must decide whether he can ethically sign the report, whether refusing to do so is enough, and what responsibilities he has in light of the company's decision to proceed with the cheaper parts] Omega is not pursuing the issue any further and ABC is producing a cheaper part. As the shipment is prepared to be sent to XYZ, Omega is asked to sign a report verifying that the specifications for the part have been met. Which one of the following actions does not violate the Code of Ethics?",
+    "choices": {
+      "A": "Omega decides that he will not sign the report, knowing that a cheaper part has been produced",
+      "B": "Omega signs the report at the instruction of his boss Sigma",
+      "C": "Omega signs the report and places an anonymous phone call to Good Engineering Company informing them about the changes",
+      "D": "Omega takes sick leave in order not to sign the report",
+      "E": "None of the above"
+    },
+    "answer": "A",
+    "group": "L78-grp-4"
+  },
+  {
+    "id": "L78-079",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 36 to 40 Omega is a professional engineer employed by ABC Manufacturing Company, a firm that produces specialized metal components for industrial equipment. ABC has entered into a contract with Good Engineering Company to manufacture and supply a large shipment of precision parts that will eventually be used by XYZ in a system where reliability and safety are important. The contract documents and technical specifications clearly state the type and grade of metal alloy that must be used in fabricating the parts. During production, Sigma, Omega's supervisor at ABC, becomes concerned that the specified alloy is too expensive and will reduce the company's profit on the contract. Sigma instructs production staff to substitute a cheaper alloy that is similar in appearance but does not meet the agreed specifications. Sigma tells Omega that the substitute material should still be \"good enough\" for the intended purpose and says that the change is necessary if ABC is to remain competitive and profitable. Omega is troubled by this instruction because he knows that the parts no longer meet the contract requirements and that the customer has not approved any such substitution. Omega raises concerns internally, pointing out that the use of a cheaper alloy may affect performance, may mislead the customer, and may expose both the company and the engineers involved to serious ethical and legal consequences. Sigma dismisses Omega's concerns and insists that the shipment proceed as planned. As the shipment is being prepared for delivery to Good Engineering Company, Omega is asked to sign a report certifying that the parts comply with the contractual specifications. Omega now must decide whether he can ethically sign the report, whether refusing to do so is enough, and what responsibilities he has in light of the company's decision to proceed with the cheaper parts] Omega refuses to sign the report. However, Sigma persuades another engineer, Theta, to sign the report. The cheaper parts are shipped to Good Engineering Company.",
+    "choices": {
+      "A": "ABC is committing fraud",
+      "B": "Both engineers Sigma and Theta are acting unethically",
+      "C": "Both engineers Sigma and Theta are breaking the law",
+      "D": "By acting in the interest of increasing profit illegally, ABC is jeopardizing its future",
+      "E": "All of the above"
+    },
+    "answer": "E",
+    "group": "L78-grp-4"
+  },
+  {
+    "id": "L78-080",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 36 to 40 Omega is a professional engineer employed by ABC Manufacturing Company, a firm that produces specialized metal components for industrial equipment. ABC has entered into a contract with Good Engineering Company to manufacture and supply a large shipment of precision parts that will eventually be used by XYZ in a system where reliability and safety are important. The contract documents and technical specifications clearly state the type and grade of metal alloy that must be used in fabricating the parts. During production, Sigma, Omega's supervisor at ABC, becomes concerned that the specified alloy is too expensive and will reduce the company's profit on the contract. Sigma instructs production staff to substitute a cheaper alloy that is similar in appearance but does not meet the agreed specifications. Sigma tells Omega that the substitute material should still be \"good enough\" for the intended purpose and says that the change is necessary if ABC is to remain competitive and profitable. Omega is troubled by this instruction because he knows that the parts no longer meet the contract requirements and that the customer has not approved any such substitution. Omega raises concerns internally, pointing out that the use of a cheaper alloy may affect performance, may mislead the customer, and may expose both the company and the engineers involved to serious ethical and legal consequences. Sigma dismisses Omega's concerns and insists that the shipment proceed as planned. As the shipment is being prepared for delivery to Good Engineering Company, Omega is asked to sign a report certifying that the parts comply with the contractual specifications. Omega now must decide whether he can ethically sign the report, whether refusing to do so is enough, and what responsibilities he has in light of the company's decision to proceed with the cheaper parts] In judging the above case, which ethical theory would justify Omega's decision not to sign the report?",
+    "choices": {
+      "A": "Duty ethics",
+      "B": "Rights ethics",
+      "C": "Utilitarian ethics",
+      "D": "Virtue ethics",
+      "E": "All of the above"
+    },
+    "answer": "E",
+    "group": "L78-grp-4"
+  },
+  {
+    "id": "L78-081",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 36 to 40 Omega is a professional engineer employed by ABC Manufacturing Company, a firm that produces specialized metal components for industrial equipment. ABC has entered into a contract with Good Engineering Company to manufacture and supply a large shipment of precision parts that will eventually be used by XYZ in a system where reliability and safety are important. The contract documents and technical specifications clearly state the type and grade of metal alloy that must be used in fabricating the parts. During production, Sigma, Omega's supervisor at ABC, becomes concerned that the specified alloy is too expensive and will reduce the company's profit on the contract. Sigma instructs production staff to substitute a cheaper alloy that is similar in appearance but does not meet the agreed specifications. Sigma tells Omega that the substitute material should still be \"good enough\" for the intended purpose and says that the change is necessary if ABC is to remain competitive and profitable. Omega is troubled by this instruction because he knows that the parts no longer meet the contract requirements and that the customer has not approved any such substitution. Omega raises concerns internally, pointing out that the use of a cheaper alloy may affect performance, may mislead the customer, and may expose both the company and the engineers involved to serious ethical and legal consequences. Sigma dismisses Omega's concerns and insists that the shipment proceed as planned. As the shipment is being prepared for delivery to Good Engineering Company, Omega is asked to sign a report certifying that the parts comply with the contractual specifications. Omega now must decide whether he can ethically sign the report, whether refusing to do so is enough, and what responsibilities he has in light of the company's decision to proceed with the cheaper parts] Replacing the metal used in fabrication of the parts with a cheaper alloy means that both ABC and its engineers",
+    "choices": {
+      "A": "May be vicariously liable",
+      "B": "Are committing fraud",
+      "C": "Are breaking the contract",
+      "D": "Are behaving unethically",
+      "E": "All of the above"
+    },
+    "answer": "E",
+    "group": "L78-grp-4"
+  },
+  {
+    "id": "L78-082",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 41 to 46 A developer proposes the construction of a small commercial building in Ontario and obtains a complete set of design drawings from a foreign engineering firm. The drawing package includes structural, architectural, plumbing, electrical, and mechanical drawings. Because the building is to be constructed in Ontario, the developer asks BCEC, a local consulting firm specializing in structural engineering, to review the drawings and provide the necessary professional engineering seal for submission to the local authority having jurisdiction. Engineer Kappa, a principal at BCEC, is experienced in structural engineering and is asked to check the structural loadings and the integrity of the structural design. Kappa carefully reviews the structural drawings and confirms that the structural aspects of the design are satisfactory and conform to the Ontario Building Code. However, Kappa does not carry out a detailed review of the plumbing, electrical, or other non-structural drawings, since these areas are outside BCEC's retained scope and outside his area of specialization. Despite this limited review, Kappa places his professional engineer's seal on the entire package of drawings without clearly indicating that his review was restricted to structural matters only. The complete sealed package is then prepared for submission as though all drawings had been checked and accepted under Kappa's professional responsibility. Later, concerns are raised that some of the non-structural drawings may not conform to Ontario requirements, even though the structural drawings themselves are correct. Suppose that the building is ultimately never constructed. Questions are then raised about whether Kappa acted properly in sealing the entire drawing package, what his responsibilities were when applying his seal, and whether it matters that the original drawings were prepared by a foreign firm rather than an Ontario-based one] When engineer Kappa checked the drawings for structural loadings",
+    "choices": {
+      "A": "He was correct to stamp all drawings",
+      "B": "He was supposed to check conformity to the Ontario Building Code",
+      "C": "He was responsible for all the information contained in the drawings",
+      "D": "Both (b) and (c)"
+    },
+    "answer": "D",
+    "group": "L78-grp-5"
+  },
+  {
+    "id": "L78-083",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 41 to 46 A developer proposes the construction of a small commercial building in Ontario and obtains a complete set of design drawings from a foreign engineering firm. The drawing package includes structural, architectural, plumbing, electrical, and mechanical drawings. Because the building is to be constructed in Ontario, the developer asks BCEC, a local consulting firm specializing in structural engineering, to review the drawings and provide the necessary professional engineering seal for submission to the local authority having jurisdiction. Engineer Kappa, a principal at BCEC, is experienced in structural engineering and is asked to check the structural loadings and the integrity of the structural design. Kappa carefully reviews the structural drawings and confirms that the structural aspects of the design are satisfactory and conform to the Ontario Building Code. However, Kappa does not carry out a detailed review of the plumbing, electrical, or other non-structural drawings, since these areas are outside BCEC's retained scope and outside his area of specialization. Despite this limited review, Kappa places his professional engineer's seal on the entire package of drawings without clearly indicating that his review was restricted to structural matters only. The complete sealed package is then prepared for submission as though all drawings had been checked and accepted under Kappa's professional responsibility. Later, concerns are raised that some of the non-structural drawings may not conform to Ontario requirements, even though the structural drawings themselves are correct. Suppose that the building is ultimately never constructed. Questions are then raised about whether Kappa acted properly in sealing the entire drawing package, what his responsibilities were when applying his seal, and whether it matters that the original drawings were prepared by a foreign firm rather than an Ontario-based one] The proposed building was never built",
+    "choices": {
+      "A": "This fact has no bearing when evaluating engineer Kappa's behavior",
+      "B": "If the building was not built, nobody is at fault",
+      "C": "Omicron was not qualified to check the plans",
+      "D": "None of the above"
+    },
+    "answer": "A",
+    "group": "L78-grp-5"
+  },
+  {
+    "id": "L78-084",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 41 to 46 A developer proposes the construction of a small commercial building in Ontario and obtains a complete set of design drawings from a foreign engineering firm. The drawing package includes structural, architectural, plumbing, electrical, and mechanical drawings. Because the building is to be constructed in Ontario, the developer asks BCEC, a local consulting firm specializing in structural engineering, to review the drawings and provide the necessary professional engineering seal for submission to the local authority having jurisdiction. Engineer Kappa, a principal at BCEC, is experienced in structural engineering and is asked to check the structural loadings and the integrity of the structural design. Kappa carefully reviews the structural drawings and confirms that the structural aspects of the design are satisfactory and conform to the Ontario Building Code. However, Kappa does not carry out a detailed review of the plumbing, electrical, or other non-structural drawings, since these areas are outside BCEC's retained scope and outside his area of specialization. Despite this limited review, Kappa places his professional engineer's seal on the entire package of drawings without clearly indicating that his review was restricted to structural matters only. The complete sealed package is then prepared for submission as though all drawings had been checked and accepted under Kappa's professional responsibility. Later, concerns are raised that some of the non-structural drawings may not conform to Ontario requirements, even though the structural drawings themselves are correct. Suppose that the building is ultimately never constructed. Questions are then raised about whether Kappa acted properly in sealing the entire drawing package, what his responsibilities were when applying his seal, and whether it matters that the original drawings were prepared by a foreign firm rather than an Ontario-based one] Engineer Kappa and his company BCEC were specialized in structural engineering and had been paid to check the integrity of the structure. The structural drawings were correct and not in violation of the Ontario Building Code. The problems were with the other drawings. Using the professional engineer stamp on all drawings was in violation of the Code of Ethics, especially",
+    "choices": {
+      "A": "2.iii",
+      "B": "1.v",
+      "C": "4",
+      "D": "3",
+      "E": "7.iii"
+    },
+    "answer": "B",
+    "group": "L78-grp-5"
+  },
+  {
+    "id": "L78-085",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 41 to 46 A developer proposes the construction of a small commercial building in Ontario and obtains a complete set of design drawings from a foreign engineering firm. The drawing package includes structural, architectural, plumbing, electrical, and mechanical drawings. Because the building is to be constructed in Ontario, the developer asks BCEC, a local consulting firm specializing in structural engineering, to review the drawings and provide the necessary professional engineering seal for submission to the local authority having jurisdiction. Engineer Kappa, a principal at BCEC, is experienced in structural engineering and is asked to check the structural loadings and the integrity of the structural design. Kappa carefully reviews the structural drawings and confirms that the structural aspects of the design are satisfactory and conform to the Ontario Building Code. However, Kappa does not carry out a detailed review of the plumbing, electrical, or other non-structural drawings, since these areas are outside BCEC's retained scope and outside his area of specialization. Despite this limited review, Kappa places his professional engineer's seal on the entire package of drawings without clearly indicating that his review was restricted to structural matters only. The complete sealed package is then prepared for submission as though all drawings had been checked and accepted under Kappa's professional responsibility. Later, concerns are raised that some of the non-structural drawings may not conform to Ontario requirements, even though the structural drawings themselves are correct. Suppose that the building is ultimately never constructed. Questions are then raised about whether Kappa acted properly in sealing the entire drawing package, what his responsibilities were when applying his seal, and whether it matters that the original drawings were prepared by a foreign firm rather than an Ontario-based one] What if engineer Kappa were diligent and had stamped only the structural drawings and had made a clear statement on all other drawings, such as plumbing and electrical, that only the structural checking was completed by him?",
+    "choices": {
+      "A": "Would not have made any difference in judging the case",
+      "B": "Would satisfy that he was doing his duty to the best of his knowledge in structural engineering",
+      "C": "Would be judged as ethical behavior",
+      "D": "Both (b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "D",
+    "group": "L78-grp-5"
+  },
+  {
+    "id": "L78-086",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 41 to 46 A developer proposes the construction of a small commercial building in Ontario and obtains a complete set of design drawings from a foreign engineering firm. The drawing package includes structural, architectural, plumbing, electrical, and mechanical drawings. Because the building is to be constructed in Ontario, the developer asks BCEC, a local consulting firm specializing in structural engineering, to review the drawings and provide the necessary professional engineering seal for submission to the local authority having jurisdiction. Engineer Kappa, a principal at BCEC, is experienced in structural engineering and is asked to check the structural loadings and the integrity of the structural design. Kappa carefully reviews the structural drawings and confirms that the structural aspects of the design are satisfactory and conform to the Ontario Building Code. However, Kappa does not carry out a detailed review of the plumbing, electrical, or other non-structural drawings, since these areas are outside BCEC's retained scope and outside his area of specialization. Despite this limited review, Kappa places his professional engineer's seal on the entire package of drawings without clearly indicating that his review was restricted to structural matters only. The complete sealed package is then prepared for submission as though all drawings had been checked and accepted under Kappa's professional responsibility. Later, concerns are raised that some of the non-structural drawings may not conform to Ontario requirements, even though the structural drawings themselves are correct. Suppose that the building is ultimately never constructed. Questions are then raised about whether Kappa acted properly in sealing the entire drawing package, what his responsibilities were when applying his seal, and whether it matters that the original drawings were prepared by a foreign firm rather than an Ontario-based one] If the building had been built and the drawings, stamped by engineer Kappa, submitted in construction",
+    "choices": {
+      "A": "Public safety might have been endangered",
+      "B": "The owner of the building would have been in violation of the Ontario Building Code",
+      "C": "Liability in law might have occurred",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "D",
+    "group": "L78-grp-5"
+  },
+  {
+    "id": "L78-087",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 41 to 46 A developer proposes the construction of a small commercial building in Ontario and obtains a complete set of design drawings from a foreign engineering firm. The drawing package includes structural, architectural, plumbing, electrical, and mechanical drawings. Because the building is to be constructed in Ontario, the developer asks BCEC, a local consulting firm specializing in structural engineering, to review the drawings and provide the necessary professional engineering seal for submission to the local authority having jurisdiction. Engineer Kappa, a principal at BCEC, is experienced in structural engineering and is asked to check the structural loadings and the integrity of the structural design. Kappa carefully reviews the structural drawings and confirms that the structural aspects of the design are satisfactory and conform to the Ontario Building Code. However, Kappa does not carry out a detailed review of the plumbing, electrical, or other non-structural drawings, since these areas are outside BCEC's retained scope and outside his area of specialization. Despite this limited review, Kappa places his professional engineer's seal on the entire package of drawings without clearly indicating that his review was restricted to structural matters only. The complete sealed package is then prepared for submission as though all drawings had been checked and accepted under Kappa's professional responsibility. Later, concerns are raised that some of the non-structural drawings may not conform to Ontario requirements, even though the structural drawings themselves are correct. Suppose that the building is ultimately never constructed. Questions are then raised about whether Kappa acted properly in sealing the entire drawing package, what his responsibilities were when applying his seal, and whether it matters that the original drawings were prepared by a foreign firm rather than an Ontario-based one] The drawings were completed by a foreign firm, for example from the USA",
+    "choices": {
+      "A": "The laws in Canada prohibit the use of foreign firms, so the project must be done by a Canadian firm",
+      "B": "The drawings must conform with the rules and regulations in the jurisdiction for which they are intended to be used",
+      "C": "Engineer Kappa was not allowed to seal drawings done by a foreign firm",
+      "D": "A professional engineer's seal on a drawing implies that the person applying it has checked the drawing for conformity with local statutes and regulations",
+      "E": "Both (b) and (d)"
+    },
+    "answer": "E",
+    "group": "L78-grp-5"
+  },
+  {
+    "id": "L78-088",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
     "type": "true_false",
     "question": "Behavior that is in accordance with accepted principles of right or good conduct in the context of a particular situation, and consistent with international norms of behavior, is considered ethical",
     "choices": {
@@ -1065,7 +1399,7 @@
     "group": null
   },
   {
-    "id": "L78-068",
+    "id": "L78-089",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1078,7 +1412,7 @@
     "group": null
   },
   {
-    "id": "L78-069",
+    "id": "L78-090",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1091,7 +1425,7 @@
     "group": null
   },
   {
-    "id": "L78-070",
+    "id": "L78-091",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1104,7 +1438,7 @@
     "group": null
   },
   {
-    "id": "L78-071",
+    "id": "L78-092",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1117,7 +1451,7 @@
     "group": null
   },
   {
-    "id": "L78-072",
+    "id": "L78-093",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1133,7 +1467,7 @@
     "group": null
   },
   {
-    "id": "L78-073",
+    "id": "L78-094",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1149,7 +1483,7 @@
     "group": null
   },
   {
-    "id": "L78-074",
+    "id": "L78-095",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1165,7 +1499,7 @@
     "group": null
   },
   {
-    "id": "L78-075",
+    "id": "L78-096",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1181,7 +1515,7 @@
     "group": null
   },
   {
-    "id": "L78-076",
+    "id": "L78-097",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1197,7 +1531,7 @@
     "group": null
   },
   {
-    "id": "L78-077",
+    "id": "L78-098",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1213,7 +1547,7 @@
     "group": null
   },
   {
-    "id": "L78-078",
+    "id": "L78-099",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1229,7 +1563,7 @@
     "group": null
   },
   {
-    "id": "L78-079",
+    "id": "L78-100",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1245,7 +1579,7 @@
     "group": null
   },
   {
-    "id": "L78-080",
+    "id": "L78-101",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1261,7 +1595,7 @@
     "group": null
   },
   {
-    "id": "L78-081",
+    "id": "L78-102",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1277,7 +1611,7 @@
     "group": null
   },
   {
-    "id": "L78-082",
+    "id": "L78-103",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1293,7 +1627,7 @@
     "group": null
   },
   {
-    "id": "L78-083",
+    "id": "L78-104",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1309,7 +1643,7 @@
     "group": null
   },
   {
-    "id": "L78-084",
+    "id": "L78-105",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1322,7 +1656,7 @@
     "group": null
   },
   {
-    "id": "L78-085",
+    "id": "L78-106",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1335,7 +1669,7 @@
     "group": null
   },
   {
-    "id": "L78-086",
+    "id": "L78-107",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1348,7 +1682,7 @@
     "group": null
   },
   {
-    "id": "L78-087",
+    "id": "L78-108",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1361,7 +1695,7 @@
     "group": null
   },
   {
-    "id": "L78-088",
+    "id": "L78-109",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1374,7 +1708,7 @@
     "group": null
   },
   {
-    "id": "L78-089",
+    "id": "L78-110",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1387,7 +1721,7 @@
     "group": null
   },
   {
-    "id": "L78-090",
+    "id": "L78-111",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1400,7 +1734,7 @@
     "group": null
   },
   {
-    "id": "L78-091",
+    "id": "L78-112",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1413,7 +1747,7 @@
     "group": null
   },
   {
-    "id": "L78-092",
+    "id": "L78-113",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1426,7 +1760,7 @@
     "group": null
   },
   {
-    "id": "L78-093",
+    "id": "L78-114",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1439,7 +1773,7 @@
     "group": null
   },
   {
-    "id": "L78-094",
+    "id": "L78-115",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1452,7 +1786,7 @@
     "group": null
   },
   {
-    "id": "L78-095",
+    "id": "L78-116",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1467,7 +1801,7 @@
     "group": null
   },
   {
-    "id": "L78-096",
+    "id": "L78-117",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1480,7 +1814,7 @@
     "group": null
   },
   {
-    "id": "L78-097",
+    "id": "L78-118",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1496,7 +1830,7 @@
     "group": null
   },
   {
-    "id": "L78-098",
+    "id": "L78-119",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1512,7 +1846,7 @@
     "group": null
   },
   {
-    "id": "L78-099",
+    "id": "L78-120",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1525,7 +1859,7 @@
     "group": null
   },
   {
-    "id": "L78-100",
+    "id": "L78-121",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1540,7 +1874,7 @@
     "group": null
   },
   {
-    "id": "L78-101",
+    "id": "L78-122",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1553,7 +1887,7 @@
     "group": null
   },
   {
-    "id": "L78-102",
+    "id": "L78-123",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1566,7 +1900,7 @@
     "group": null
   },
   {
-    "id": "L78-103",
+    "id": "L78-124",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1579,14 +1913,14 @@
     "group": null
   },
   {
-    "id": "L78-104",
+    "id": "L78-125",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
     "question": "An ethical organization will ensure that the conditions of work",
     "choices": {
       "A": "Comply with national laws and regulations where applicable",
-      "B": "Are consistent with applicable international labour standards regarding wages, hours of",
+      "B": "Are consistent with applicable international labour standards regarding wages, hours of work, weekly rest, holidays, health and safety, maternity protection, and the ability to combine work with family responsibilities",
       "C": "Allow observance of national or religious traditions and customs",
       "D": "All of the above"
     },
@@ -1594,7 +1928,7 @@
     "group": null
   },
   {
-    "id": "L78-105",
+    "id": "L78-126",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1607,7 +1941,7 @@
     "group": null
   },
   {
-    "id": "L78-106",
+    "id": "L78-127",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1620,7 +1954,7 @@
     "group": null
   },
   {
-    "id": "L78-107",
+    "id": "L78-128",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1633,7 +1967,7 @@
     "group": null
   },
   {
-    "id": "L78-108",
+    "id": "L78-129",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1646,14 +1980,14 @@
     "group": null
   },
   {
-    "id": "L78-109",
+    "id": "L78-130",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
     "question": "Which of the following statements are true",
     "choices": {
       "A": "An engineer should respect international norms of behavior",
-      "B": "Where national law significantly conflicts with international norms, he or she should strive to respect the norms",
+      "B": "Where national law significantly conflicts with international norms, he or she should strive to",
       "C": "Where national law conflicts with international norms and not following these norms would have significant consequences, the engineer should review the nature of activities within that jurisdiction",
       "D": "The engineer should seek to influence relevant organizations and authorities to remedy such conflicts",
       "E": "All of the above"
@@ -1662,7 +1996,7 @@
     "group": null
   },
   {
-    "id": "L78-110",
+    "id": "L78-131",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1675,7 +2009,7 @@
     "group": null
   },
   {
-    "id": "L78-111",
+    "id": "L78-132",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1688,7 +2022,7 @@
     "group": null
   },
   {
-    "id": "L78-112",
+    "id": "L78-133",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1701,7 +2035,7 @@
     "group": null
   },
   {
-    "id": "L78-113",
+    "id": "L78-134",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1714,7 +2048,7 @@
     "group": null
   },
   {
-    "id": "L78-114",
+    "id": "L78-135",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1727,7 +2061,7 @@
     "group": null
   },
   {
-    "id": "L78-115",
+    "id": "L78-136",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1740,7 +2074,7 @@
     "group": null
   },
   {
-    "id": "L78-116",
+    "id": "L78-137",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "true_false",
@@ -1753,7 +2087,7 @@
     "group": null
   },
   {
-    "id": "L78-117",
+    "id": "L78-138",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1769,7 +2103,7 @@
     "group": null
   },
   {
-    "id": "L78-118",
+    "id": "L78-139",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1785,7 +2119,7 @@
     "group": null
   },
   {
-    "id": "L78-119",
+    "id": "L78-140",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1801,7 +2135,7 @@
     "group": null
   },
   {
-    "id": "L78-120",
+    "id": "L78-141",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -1816,7 +2150,7 @@
     "group": null
   },
   {
-    "id": "L78-121",
+    "id": "L78-142",
     "source": "Lecture 7 & 8",
     "topic": "Lecture 7 & 8",
     "type": "multiple_choice",
@@ -3612,7 +3946,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Company A Environmental Assessment] Engineer Black indicated another solution to the municipality, and his solution was adopted.",
+    "question": "[Company A Environmental Assessment A municipality is considering options for upgrading its wastewater treatment system and retains Company A to carry out an environmental assessment and recommend the most suitable technical solution. Company A studies several alternatives and submits a report to the municipality recommending one of them. The report is prepared by qualified engineers and is based on technical, environmental, and economic considerations. Engineer Black, who is not part of Company A, becomes aware of the municipality's decision-making process. Black has developed and patented a different treatment process and believes that his process would be a better solution for the municipality. After reviewing the matter, Black writes directly to the Mayor and comments on Company A's recommended solution. In his letter, Black explains why he believes another solution would be preferable and urges the municipality to reconsider the recommendation. Black's preferred solution is eventually adopted by the municipality. In the course of his letter, however, Black goes beyond technical criticism of the recommended solution and makes negative personal comments about the competence of the engineers employed by Company A. Black does not send a copy of his letter to Company A and does not advise them that he is criticizing their recommendation to the municipality. Questions are later raised about whether Black acted ethically in the way he communicated his criticism, whether his personal interest in promoting his patented process affected his conduct, and under what circumstances one engineer may properly criticize the technical opinion of another] Engineer Black indicated another solution to the municipality, and his solution was adopted.",
     "choices": {
       "A": "He was right to criticize Company A",
       "B": "He was right to indicate to the Mayor that Company A's engineers are incompetent",
@@ -3627,7 +3961,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Company A Environmental Assessment] Black wrote the letter to the Mayor commenting on another engineer's technical solution.",
+    "question": "[Company A Environmental Assessment A municipality is considering options for upgrading its wastewater treatment system and retains Company A to carry out an environmental assessment and recommend the most suitable technical solution. Company A studies several alternatives and submits a report to the municipality recommending one of them. The report is prepared by qualified engineers and is based on technical, environmental, and economic considerations. Engineer Black, who is not part of Company A, becomes aware of the municipality's decision-making process. Black has developed and patented a different treatment process and believes that his process would be a better solution for the municipality. After reviewing the matter, Black writes directly to the Mayor and comments on Company A's recommended solution. In his letter, Black explains why he believes another solution would be preferable and urges the municipality to reconsider the recommendation. Black's preferred solution is eventually adopted by the municipality. In the course of his letter, however, Black goes beyond technical criticism of the recommended solution and makes negative personal comments about the competence of the engineers employed by Company A. Black does not send a copy of his letter to Company A and does not advise them that he is criticizing their recommendation to the municipality. Questions are later raised about whether Black acted ethically in the way he communicated his criticism, whether his personal interest in promoting his patented process affected his conduct, and under what circumstances one engineer may properly criticize the technical opinion of another] Black wrote the letter to the Mayor commenting on another engineer's technical solution.",
     "choices": {
       "A": "Black was not entitled to write the letter to the Mayor",
       "B": "Black should have to send a copy of the letter to Company A",
@@ -3642,7 +3976,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Company A Environmental Assessment] Considering the above facts, does the fact that Company A did not recommend Black's patented process in the recommended solution:",
+    "question": "[Company A Environmental Assessment A municipality is considering options for upgrading its wastewater treatment system and retains Company A to carry out an environmental assessment and recommend the most suitable technical solution. Company A studies several alternatives and submits a report to the municipality recommending one of them. The report is prepared by qualified engineers and is based on technical, environmental, and economic considerations. Engineer Black, who is not part of Company A, becomes aware of the municipality's decision-making process. Black has developed and patented a different treatment process and believes that his process would be a better solution for the municipality. After reviewing the matter, Black writes directly to the Mayor and comments on Company A's recommended solution. In his letter, Black explains why he believes another solution would be preferable and urges the municipality to reconsider the recommendation. Black's preferred solution is eventually adopted by the municipality. In the course of his letter, however, Black goes beyond technical criticism of the recommended solution and makes negative personal comments about the competence of the engineers employed by Company A. Black does not send a copy of his letter to Company A and does not advise them that he is criticizing their recommendation to the municipality. Questions are later raised about whether Black acted ethically in the way he communicated his criticism, whether his personal interest in promoting his patented process affected his conduct, and under what circumstances one engineer may properly criticize the technical opinion of another] Considering the above facts, does the fact that Company A did not recommend Black's patented process in the recommended solution:",
     "choices": {
       "A": "Have any bearing in the letter written by engineer Black?",
       "B": "Can imply that the letter written by Black is self serving and not in the best interest of the municipality",
@@ -3657,7 +3991,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Company A Environmental Assessment] When considering Black's actions as described in the scenario, the following paragraphs of the Code of Ethics apply:",
+    "question": "[Company A Environmental Assessment A municipality is considering options for upgrading its wastewater treatment system and retains Company A to carry out an environmental assessment and recommend the most suitable technical solution. Company A studies several alternatives and submits a report to the municipality recommending one of them. The report is prepared by qualified engineers and is based on technical, environmental, and economic considerations. Engineer Black, who is not part of Company A, becomes aware of the municipality's decision-making process. Black has developed and patented a different treatment process and believes that his process would be a better solution for the municipality. After reviewing the matter, Black writes directly to the Mayor and comments on Company A's recommended solution. In his letter, Black explains why he believes another solution would be preferable and urges the municipality to reconsider the recommendation. Black's preferred solution is eventually adopted by the municipality. In the course of his letter, however, Black goes beyond technical criticism of the recommended solution and makes negative personal comments about the competence of the engineers employed by Company A. Black does not send a copy of his letter to Company A and does not advise them that he is criticizing their recommendation to the municipality. Questions are later raised about whether Black acted ethically in the way he communicated his criticism, whether his personal interest in promoting his patented process affected his conduct, and under what circumstances one engineer may properly criticize the technical opinion of another] When considering Black's actions as described in the scenario, the following paragraphs of the Code of Ethics apply:",
     "choices": {
       "A": "7.i",
       "B": "7.iii",
@@ -3673,7 +4007,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Company A Environmental Assessment] Criticism of another professional engineer's opinion might be appropriate in certain circumstances.",
+    "question": "[Company A Environmental Assessment A municipality is considering options for upgrading its wastewater treatment system and retains Company A to carry out an environmental assessment and recommend the most suitable technical solution. Company A studies several alternatives and submits a report to the municipality recommending one of them. The report is prepared by qualified engineers and is based on technical, environmental, and economic considerations. Engineer Black, who is not part of Company A, becomes aware of the municipality's decision-making process. Black has developed and patented a different treatment process and believes that his process would be a better solution for the municipality. After reviewing the matter, Black writes directly to the Mayor and comments on Company A's recommended solution. In his letter, Black explains why he believes another solution would be preferable and urges the municipality to reconsider the recommendation. Black's preferred solution is eventually adopted by the municipality. In the course of his letter, however, Black goes beyond technical criticism of the recommended solution and makes negative personal comments about the competence of the engineers employed by Company A. Black does not send a copy of his letter to Company A and does not advise them that he is criticizing their recommendation to the municipality. Questions are later raised about whether Black acted ethically in the way he communicated his criticism, whether his personal interest in promoting his patented process affected his conduct, and under what circumstances one engineer may properly criticize the technical opinion of another] Criticism of another professional engineer's opinion might be appropriate in certain circumstances.",
     "choices": {
       "A": "It is appropriate to attack colleagues",
       "B": "It is appropriate to maliciously injure reputation of other engineers",
@@ -3688,7 +4022,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Foundation and Ground Inc] The \"no-rat\" provision in the union by-laws is of concern because it:",
+    "question": "[Foundation and Ground Inc. Engineer Savoy is employed by Foundation and Ground Inc., a geotechnical engineering company that carries out subsurface investigations, field inspections, and materials testing for construction projects. In performing engineering services for clients, Savoy relies on information gathered by field technicians and testing personnel, including soil sample observations, compaction test data, and reports of site conditions. Although these employees are not licensed engineers, their work provides important technical information that Savoy must assess in order to make engineering judgments and recommendations affecting the safety and performance of foundations and other structures. A union begins representing the field technicians and testing personnel employed by Foundation and Ground Inc. Savoy reviews the union bylaws and becomes concerned about a disciplinary provision commonly referred to as a \"no-rat\" provision. This provision states that no union member may make derogatory or disparaging remarks about another fellow union member or about that person's work performance. A member who does so may be subject to union discipline. Savoy is troubled by the possibility that this provision could discourage field technicians and testing employees from reporting errors, poor workmanship, inaccurate test results, or unsafe practices by fellow union members. Savoy is particularly concerned that, if these employees feel unable to criticize or report one another's work, the technical information she receives may be incomplete or unreliable. Since her engineering decisions depend on that information, Savoy worries that her authority and responsibility as a professional engineer could effectively be undermined by a rule created by a non-engineering body, especially in matters involving public safety] The \"no-rat\" provision in the union by-laws is of concern because it:",
     "choices": {
       "A": "Prohibits any and all criticism of the work performed by field technicians and testing employees",
       "B": "Could jeopardize the public health, safety and welfare",
@@ -3704,7 +4038,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Foundation and Ground Inc] Parts of the PEO Code of Ethics that could be affected by the \"no-rat\" provision include:",
+    "question": "[Foundation and Ground Inc. Engineer Savoy is employed by Foundation and Ground Inc., a geotechnical engineering company that carries out subsurface investigations, field inspections, and materials testing for construction projects. In performing engineering services for clients, Savoy relies on information gathered by field technicians and testing personnel, including soil sample observations, compaction test data, and reports of site conditions. Although these employees are not licensed engineers, their work provides important technical information that Savoy must assess in order to make engineering judgments and recommendations affecting the safety and performance of foundations and other structures. A union begins representing the field technicians and testing personnel employed by Foundation and Ground Inc. Savoy reviews the union bylaws and becomes concerned about a disciplinary provision commonly referred to as a \"no-rat\" provision. This provision states that no union member may make derogatory or disparaging remarks about another fellow union member or about that person's work performance. A member who does so may be subject to union discipline. Savoy is troubled by the possibility that this provision could discourage field technicians and testing employees from reporting errors, poor workmanship, inaccurate test results, or unsafe practices by fellow union members. Savoy is particularly concerned that, if these employees feel unable to criticize or report one another's work, the technical information she receives may be incomplete or unreliable. Since her engineering decisions depend on that information, Savoy worries that her authority and responsibility as a professional engineer could effectively be undermined by a rule created by a non-engineering body, especially in matters involving public safety] Parts of the PEO Code of Ethics that could be affected by the \"no-rat\" provision include:",
     "choices": {
       "A": "An engineer should not make unfair statements about other engineers",
       "B": "An engineer should guard and protect the interests of clients",
@@ -3720,7 +4054,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Foundation and Ground Inc] Engineer Savoy's concerns are valid because:",
+    "question": "[Foundation and Ground Inc. Engineer Savoy is employed by Foundation and Ground Inc., a geotechnical engineering company that carries out subsurface investigations, field inspections, and materials testing for construction projects. In performing engineering services for clients, Savoy relies on information gathered by field technicians and testing personnel, including soil sample observations, compaction test data, and reports of site conditions. Although these employees are not licensed engineers, their work provides important technical information that Savoy must assess in order to make engineering judgments and recommendations affecting the safety and performance of foundations and other structures. A union begins representing the field technicians and testing personnel employed by Foundation and Ground Inc. Savoy reviews the union bylaws and becomes concerned about a disciplinary provision commonly referred to as a \"no-rat\" provision. This provision states that no union member may make derogatory or disparaging remarks about another fellow union member or about that person's work performance. A member who does so may be subject to union discipline. Savoy is troubled by the possibility that this provision could discourage field technicians and testing employees from reporting errors, poor workmanship, inaccurate test results, or unsafe practices by fellow union members. Savoy is particularly concerned that, if these employees feel unable to criticize or report one another's work, the technical information she receives may be incomplete or unreliable. Since her engineering decisions depend on that information, Savoy worries that her authority and responsibility as a professional engineer could effectively be undermined by a rule created by a non-engineering body, especially in matters involving public safety] Engineer Savoy's concerns are valid because:",
     "choices": {
       "A": "Engineers cannot in general deal with members of unions",
       "B": "Engineers cannot in general deal with members of unions due to the union's ability to formulate its own bylaws",
@@ -3736,7 +4070,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Foundation and Ground Inc] Because of the \"no-rat\" provision, union members could be subject to:",
+    "question": "[Foundation and Ground Inc. Engineer Savoy is employed by Foundation and Ground Inc., a geotechnical engineering company that carries out subsurface investigations, field inspections, and materials testing for construction projects. In performing engineering services for clients, Savoy relies on information gathered by field technicians and testing personnel, including soil sample observations, compaction test data, and reports of site conditions. Although these employees are not licensed engineers, their work provides important technical information that Savoy must assess in order to make engineering judgments and recommendations affecting the safety and performance of foundations and other structures. A union begins representing the field technicians and testing personnel employed by Foundation and Ground Inc. Savoy reviews the union bylaws and becomes concerned about a disciplinary provision commonly referred to as a \"no-rat\" provision. This provision states that no union member may make derogatory or disparaging remarks about another fellow union member or about that person's work performance. A member who does so may be subject to union discipline. Savoy is troubled by the possibility that this provision could discourage field technicians and testing employees from reporting errors, poor workmanship, inaccurate test results, or unsafe practices by fellow union members. Savoy is particularly concerned that, if these employees feel unable to criticize or report one another's work, the technical information she receives may be incomplete or unreliable. Since her engineering decisions depend on that information, Savoy worries that her authority and responsibility as a professional engineer could effectively be undermined by a rule created by a non-engineering body, especially in matters involving public safety] Because of the \"no-rat\" provision, union members could be subject to:",
     "choices": {
       "A": "Excessive workloads",
       "B": "Conflicted loyalties",
@@ -3752,7 +4086,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Foundation and Ground Inc] The objective of sound engineering practice will be compromised by the presence of the union disciplinary provision in its bylaws prohibiting any union member from making derogatory or disparaging remarks about any other fellow union member or their performance for the following reason(s):",
+    "question": "[Foundation and Ground Inc. Engineer Savoy is employed by Foundation and Ground Inc., a geotechnical engineering company that carries out subsurface investigations, field inspections, and materials testing for construction projects. In performing engineering services for clients, Savoy relies on information gathered by field technicians and testing personnel, including soil sample observations, compaction test data, and reports of site conditions. Although these employees are not licensed engineers, their work provides important technical information that Savoy must assess in order to make engineering judgments and recommendations affecting the safety and performance of foundations and other structures. A union begins representing the field technicians and testing personnel employed by Foundation and Ground Inc. Savoy reviews the union bylaws and becomes concerned about a disciplinary provision commonly referred to as a \"no-rat\" provision. This provision states that no union member may make derogatory or disparaging remarks about another fellow union member or about that person's work performance. A member who does so may be subject to union discipline. Savoy is troubled by the possibility that this provision could discourage field technicians and testing employees from reporting errors, poor workmanship, inaccurate test results, or unsafe practices by fellow union members. Savoy is particularly concerned that, if these employees feel unable to criticize or report one another's work, the technical information she receives may be incomplete or unreliable. Since her engineering decisions depend on that information, Savoy worries that her authority and responsibility as a professional engineer could effectively be undermined by a rule created by a non-engineering body, especially in matters involving public safety] The objective of sound engineering practice will be compromised by the presence of the union disciplinary provision in its bylaws prohibiting any union member from making derogatory or disparaging remarks about any other fellow union member or their performance for the following reason(s):",
     "choices": {
       "A": "Due to this union disciplinary provision, unionized field technicians and testing personnel may not in all cases provide reliable technical information",
       "B": "Unionized field technicians and testing personnel will normally not consider themselves bound by this union disciplinary provision",
@@ -3768,7 +4102,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Foundation and Ground Inc] The union disciplinary provision in its bylaws prohibiting any union member from making derogatory or disparaging remarks about any other fellow union member or their performance:",
+    "question": "[Foundation and Ground Inc. Engineer Savoy is employed by Foundation and Ground Inc., a geotechnical engineering company that carries out subsurface investigations, field inspections, and materials testing for construction projects. In performing engineering services for clients, Savoy relies on information gathered by field technicians and testing personnel, including soil sample observations, compaction test data, and reports of site conditions. Although these employees are not licensed engineers, their work provides important technical information that Savoy must assess in order to make engineering judgments and recommendations affecting the safety and performance of foundations and other structures. A union begins representing the field technicians and testing personnel employed by Foundation and Ground Inc. Savoy reviews the union bylaws and becomes concerned about a disciplinary provision commonly referred to as a \"no-rat\" provision. This provision states that no union member may make derogatory or disparaging remarks about another fellow union member or about that person's work performance. A member who does so may be subject to union discipline. Savoy is troubled by the possibility that this provision could discourage field technicians and testing employees from reporting errors, poor workmanship, inaccurate test results, or unsafe practices by fellow union members. Savoy is particularly concerned that, if these employees feel unable to criticize or report one another's work, the technical information she receives may be incomplete or unreliable. Since her engineering decisions depend on that information, Savoy worries that her authority and responsibility as a professional engineer could effectively be undermined by a rule created by a non-engineering body, especially in matters involving public safety] The union disciplinary provision in its bylaws prohibiting any union member from making derogatory or disparaging remarks about any other fellow union member or their performance:",
     "choices": {
       "A": "Would prohibit Engineer Savoy from criticizing the work of field technicians and testing personnel",
       "B": "Would prohibit field technicians and testing personnel from criticizing the work of Engineer Savoy",
@@ -3784,7 +4118,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Hot Furnaces R Us] The fact that the accidents involving the Furnace 3000 led to a fatality:",
+    "question": "[Hot Furnaces R Us Hot Furnaces R Us manufactures and sells an industrial heating unit known as the Furnace 3000. The Furnace 3000 is marketed as a premium, high-priced product for use in commercial and light industrial settings. Over a period of time, several accidents occur at customer sites involving burns and other serious injuries to operators working with the Furnace 3000. Later, another accident involving the same model results in a fatality. As concerns about the product increase, Hot Furnaces R Us issues a \"stop delivery\" notice to its dealers, instructing them not to deliver any additional Furnace 3000 units until the matter can be reviewed. The company publicly states that it takes safety seriously and wants to determine whether the Furnace 3000 itself played a role in the accidents. However, before any full independent investigation is completed, representatives of Hot Furnaces R Us make public statements suggesting that the Furnace 3000 was not responsible for the accidents and that operator error was the likely cause. After some internal review, Hot Furnaces R Us decides to overturn its own stop-delivery notice and resume sales of the Furnace 3000. The company explains that the product is a high-end unit built to demanding standards and that there is no conclusive proof at that time that the furnace itself caused the accidents. Some engineers and members of the public question whether the company acted properly in making public claims about the cause of the accidents before a comprehensive investigation had been completed, and whether the decision to resume sales was ethically justified on the information then available. Questions are raised about the extent of the company's responsibility for the accidents involving the Furnace 3000, the ethical significance of the product's high price, the meaning of the stop-delivery notice, and whether resuming sales was itself enough to prove unethical conduct] The fact that the accidents involving the Furnace 3000 led to a fatality:",
     "choices": {
       "A": "Makes Hot Furnaces R Us more responsible for determining if the Furnace 3000 was the cause of the accidents, than if no fatality occurred",
       "B": "Forced Hot Furnaces R Us to investigate the cause of the accidents, whereas this was not necessary when no fatality had yet occurred, just injuries",
@@ -3800,7 +4134,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Hot Furnaces R Us] The fact that the Furnace 3000 is \"high-priced\":",
+    "question": "[Hot Furnaces R Us Hot Furnaces R Us manufactures and sells an industrial heating unit known as the Furnace 3000. The Furnace 3000 is marketed as a premium, high-priced product for use in commercial and light industrial settings. Over a period of time, several accidents occur at customer sites involving burns and other serious injuries to operators working with the Furnace 3000. Later, another accident involving the same model results in a fatality. As concerns about the product increase, Hot Furnaces R Us issues a \"stop delivery\" notice to its dealers, instructing them not to deliver any additional Furnace 3000 units until the matter can be reviewed. The company publicly states that it takes safety seriously and wants to determine whether the Furnace 3000 itself played a role in the accidents. However, before any full independent investigation is completed, representatives of Hot Furnaces R Us make public statements suggesting that the Furnace 3000 was not responsible for the accidents and that operator error was the likely cause. After some internal review, Hot Furnaces R Us decides to overturn its own stop-delivery notice and resume sales of the Furnace 3000. The company explains that the product is a high-end unit built to demanding standards and that there is no conclusive proof at that time that the furnace itself caused the accidents. Some engineers and members of the public question whether the company acted properly in making public claims about the cause of the accidents before a comprehensive investigation had been completed, and whether the decision to resume sales was ethically justified on the information then available. Questions are raised about the extent of the company's responsibility for the accidents involving the Furnace 3000, the ethical significance of the product's high price, the meaning of the stop-delivery notice, and whether resuming sales was itself enough to prove unethical conduct] The fact that the Furnace 3000 is \"high-priced\":",
     "choices": {
       "A": "Does not help determine if Hot Furnaces R Us acted unethically",
       "B": "Implies that the Furnace 3000 is safe",
@@ -3816,7 +4150,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Hot Furnaces R Us] The statement by Hot Furnaces R Us that its Furnace 3000 was not responsible for the accidents in which it was involved is unethical, from an engineering perspective, if:",
+    "question": "[Hot Furnaces R Us Hot Furnaces R Us manufactures and sells an industrial heating unit known as the Furnace 3000. The Furnace 3000 is marketed as a premium, high-priced product for use in commercial and light industrial settings. Over a period of time, several accidents occur at customer sites involving burns and other serious injuries to operators working with the Furnace 3000. Later, another accident involving the same model results in a fatality. As concerns about the product increase, Hot Furnaces R Us issues a \"stop delivery\" notice to its dealers, instructing them not to deliver any additional Furnace 3000 units until the matter can be reviewed. The company publicly states that it takes safety seriously and wants to determine whether the Furnace 3000 itself played a role in the accidents. However, before any full independent investigation is completed, representatives of Hot Furnaces R Us make public statements suggesting that the Furnace 3000 was not responsible for the accidents and that operator error was the likely cause. After some internal review, Hot Furnaces R Us decides to overturn its own stop-delivery notice and resume sales of the Furnace 3000. The company explains that the product is a high-end unit built to demanding standards and that there is no conclusive proof at that time that the furnace itself caused the accidents. Some engineers and members of the public question whether the company acted properly in making public claims about the cause of the accidents before a comprehensive investigation had been completed, and whether the decision to resume sales was ethically justified on the information then available. Questions are raised about the extent of the company's responsibility for the accidents involving the Furnace 3000, the ethical significance of the product's high price, the meaning of the stop-delivery notice, and whether resuming sales was itself enough to prove unethical conduct] The statement by Hot Furnaces R Us that its Furnace 3000 was not responsible for the accidents in which it was involved is unethical, from an engineering perspective, if:",
     "choices": {
       "A": "Hot Furnaces R Us only investigated the situation in a preliminary manner",
       "B": "Hot Furnaces R Us had an independent expert in furnace safety do a comprehensive assessment, with the full cooperation of Hot Furnaces R Us, which led the firm to feel the Furnace 3000 was not responsible",
@@ -3832,7 +4166,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Hot Furnaces R Us] Hot Furnaces R Us issued a \"stop delivery\" notice to dealers. This action demonstrates that:",
+    "question": "[Hot Furnaces R Us Hot Furnaces R Us manufactures and sells an industrial heating unit known as the Furnace 3000. The Furnace 3000 is marketed as a premium, high-priced product for use in commercial and light industrial settings. Over a period of time, several accidents occur at customer sites involving burns and other serious injuries to operators working with the Furnace 3000. Later, another accident involving the same model results in a fatality. As concerns about the product increase, Hot Furnaces R Us issues a \"stop delivery\" notice to its dealers, instructing them not to deliver any additional Furnace 3000 units until the matter can be reviewed. The company publicly states that it takes safety seriously and wants to determine whether the Furnace 3000 itself played a role in the accidents. However, before any full independent investigation is completed, representatives of Hot Furnaces R Us make public statements suggesting that the Furnace 3000 was not responsible for the accidents and that operator error was the likely cause. After some internal review, Hot Furnaces R Us decides to overturn its own stop-delivery notice and resume sales of the Furnace 3000. The company explains that the product is a high-end unit built to demanding standards and that there is no conclusive proof at that time that the furnace itself caused the accidents. Some engineers and members of the public question whether the company acted properly in making public claims about the cause of the accidents before a comprehensive investigation had been completed, and whether the decision to resume sales was ethically justified on the information then available. Questions are raised about the extent of the company's responsibility for the accidents involving the Furnace 3000, the ethical significance of the product's high price, the meaning of the stop-delivery notice, and whether resuming sales was itself enough to prove unethical conduct] Hot Furnaces R Us issued a \"stop delivery\" notice to dealers. This action demonstrates that:",
     "choices": {
       "A": "Hot Furnaces R Us is not concerned about its public image",
       "B": "Hot Furnaces R Us is concerned with public safety",
@@ -3848,7 +4182,7 @@
     "source": "Extra",
     "topic": "Extra Questions",
     "type": "multiple_choice",
-    "question": "[Hot Furnaces R Us] The fact that Hot Furnaces R Us overturned its own \"stop delivery\" notice to dealers and decided to resume sales indicates that:",
+    "question": "[Hot Furnaces R Us Hot Furnaces R Us manufactures and sells an industrial heating unit known as the Furnace 3000. The Furnace 3000 is marketed as a premium, high-priced product for use in commercial and light industrial settings. Over a period of time, several accidents occur at customer sites involving burns and other serious injuries to operators working with the Furnace 3000. Later, another accident involving the same model results in a fatality. As concerns about the product increase, Hot Furnaces R Us issues a \"stop delivery\" notice to its dealers, instructing them not to deliver any additional Furnace 3000 units until the matter can be reviewed. The company publicly states that it takes safety seriously and wants to determine whether the Furnace 3000 itself played a role in the accidents. However, before any full independent investigation is completed, representatives of Hot Furnaces R Us make public statements suggesting that the Furnace 3000 was not responsible for the accidents and that operator error was the likely cause. After some internal review, Hot Furnaces R Us decides to overturn its own stop-delivery notice and resume sales of the Furnace 3000. The company explains that the product is a high-end unit built to demanding standards and that there is no conclusive proof at that time that the furnace itself caused the accidents. Some engineers and members of the public question whether the company acted properly in making public claims about the cause of the accidents before a comprehensive investigation had been completed, and whether the decision to resume sales was ethically justified on the information then available. Questions are raised about the extent of the company's responsibility for the accidents involving the Furnace 3000, the ethical significance of the product's high price, the meaning of the stop-delivery notice, and whether resuming sales was itself enough to prove unethical conduct] The fact that Hot Furnaces R Us overturned its own \"stop delivery\" notice to dealers and decided to resume sales indicates that:",
     "choices": {
       "A": "Hot Furnaces R Us is ethical",
       "B": "Hot Furnaces R Us is unethical",
