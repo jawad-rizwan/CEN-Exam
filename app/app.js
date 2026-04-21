@@ -8,6 +8,9 @@ const DECKS = [
   { key: "ALL", label: "All Randomized", match: () => true },
 ];
 
+const STORAGE_KEY = "cen800.quiz.state.v1";
+const STORAGE_VERSION = 1;
+
 const els = {
   landing: document.getElementById("view-landing"),
   quiz: document.getElementById("view-quiz"),
@@ -37,6 +40,122 @@ const state = {
   selectedDeck: null,
   session: null,
 };
+
+/* ---------- persistence ---------- */
+
+function persistState() {
+  try {
+    const payload = {
+      version: STORAGE_VERSION,
+      selectedDeckKey: state.selectedDeck ? state.selectedDeck.key : null,
+      session: state.session
+        ? {
+            label: state.session.label,
+            queue: state.session.queue,
+            index: state.session.index,
+            correct: state.session.correct,
+            answered: state.session.answered,
+          }
+        : null,
+    };
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
+  } catch (err) {
+    console.warn("Failed to persist quiz progress.", err);
+  }
+}
+
+function clearPersistedState() {
+  try {
+    localStorage.removeItem(STORAGE_KEY);
+  } catch (err) {
+    console.warn("Failed to clear saved quiz progress.", err);
+  }
+}
+
+function hasOwn(obj, key) {
+  return Object.prototype.hasOwnProperty.call(obj, key);
+}
+
+function isQuestionShape(q) {
+  return (
+    q &&
+    typeof q === "object" &&
+    typeof q.question === "string" &&
+    q.choices &&
+    typeof q.choices === "object" &&
+    typeof q.answer === "string"
+  );
+}
+
+function deserializeSession(raw) {
+  if (!raw || typeof raw !== "object") return null;
+  if (!Array.isArray(raw.queue) || raw.queue.some((q) => !isQuestionShape(q))) {
+    return null;
+  }
+  if (!Array.isArray(raw.answered)) return null;
+  if (raw.queue.length === 0) return null;
+
+  const index = Number.isInteger(raw.index) ? raw.index : 0;
+  const correct = Number.isInteger(raw.correct) ? raw.correct : 0;
+
+  const boundedIndex = Math.max(0, Math.min(index, raw.queue.length - 1));
+  const boundedCorrect = Math.max(0, Math.min(correct, raw.queue.length));
+  const answered = raw.answered.filter(
+    (a) =>
+      a &&
+      typeof a === "object" &&
+      typeof a.chosen === "string" &&
+      typeof a.correct === "boolean" &&
+      isQuestionShape(a.question)
+  );
+
+  return {
+    label: typeof raw.label === "string" ? raw.label : "Quiz",
+    queue: raw.queue,
+    index: boundedIndex,
+    correct: boundedCorrect,
+    answered: answered.slice(0, raw.queue.length),
+    answeredCurrent: false,
+  };
+}
+
+function restorePersistedState() {
+  let payload;
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return { sessionRestored: false, deckRestored: false };
+    payload = JSON.parse(raw);
+  } catch (err) {
+    clearPersistedState();
+    return { sessionRestored: false, deckRestored: false };
+  }
+
+  if (!payload || payload.version !== STORAGE_VERSION) {
+    clearPersistedState();
+    return { sessionRestored: false, deckRestored: false };
+  }
+
+  let deckRestored = false;
+  if (typeof payload.selectedDeckKey === "string") {
+    const deck = DECKS.find((d) => d.key === payload.selectedDeckKey) || null;
+    if (deck) {
+      state.selectedDeck = deck;
+      deckRestored = true;
+    }
+  }
+
+  const session = deserializeSession(payload.session);
+  if (!session) {
+    applySelectedDeckUI();
+    return { sessionRestored: false, deckRestored };
+  }
+
+  startSession(session, { suppressSave: true });
+  if (session.answered.length >= session.queue.length) {
+    showResults({ suppressSave: true });
+  }
+  return { sessionRestored: true, deckRestored };
+}
 
 /* ---------- data loading ---------- */
 
@@ -97,14 +216,32 @@ function renderDeckPicker() {
       `<span>${deck.label}</span><span class="count">${count} Qs</span>`;
     btn.addEventListener("click", () => {
       state.selectedDeck = deck;
-      document
-        .querySelectorAll(".deck-option")
-        .forEach((el) => el.classList.remove("selected"));
-      btn.classList.add("selected");
-      els.startBtn.disabled = false;
+      applySelectedDeckUI();
+      persistState();
     });
     els.deckPicker.appendChild(btn);
   }
+  applySelectedDeckUI();
+}
+
+function applySelectedDeckUI() {
+  document
+    .querySelectorAll(".deck-option")
+    .forEach((el) => el.classList.remove("selected"));
+  if (!state.selectedDeck) {
+    els.startBtn.disabled = true;
+    return;
+  }
+  const selectedBtn = document.querySelector(
+    `.deck-option[data-key="${state.selectedDeck.key}"]`
+  );
+  if (!selectedBtn || selectedBtn.disabled) {
+    state.selectedDeck = null;
+    els.startBtn.disabled = true;
+    return;
+  }
+  selectedBtn.classList.add("selected");
+  els.startBtn.disabled = false;
 }
 
 /* ---------- session ---------- */
@@ -125,7 +262,7 @@ function buildSession(pool, label, { keepGroups = true } = {}) {
   };
 }
 
-function startSession(session) {
+function startSession(session, { suppressSave = false } = {}) {
   state.session = session;
   els.landing.hidden = true;
   els.results.hidden = true;
@@ -133,12 +270,13 @@ function startSession(session) {
   els.sessionInfo.hidden = false;
   els.deckLabel.textContent = session.label;
   renderCurrentQuestion();
+  if (!suppressSave) persistState();
 }
 
 function renderCurrentQuestion() {
   const s = state.session;
   const q = s.queue[s.index];
-  s.answeredCurrent = false;
+  s.answeredCurrent = s.answered.length > s.index;
 
   els.progress.textContent = `Q ${s.index + 1} / ${s.queue.length}`;
   els.score.textContent = `Score: ${s.correct}`;
@@ -171,9 +309,13 @@ function renderCurrentQuestion() {
   els.feedback.hidden = true;
   els.feedback.className = "feedback";
   els.feedback.textContent = "";
-  els.nextBtn.disabled = true;
+  els.nextBtn.disabled = !s.answeredCurrent;
   els.nextBtn.textContent =
     s.index === s.queue.length - 1 ? "Finish" : "Next";
+
+  if (s.answeredCurrent) {
+    renderSavedAnswerState();
+  }
 }
 
 function splitScenario(text) {
@@ -224,6 +366,7 @@ function handleAnswer(letter) {
 
   els.score.textContent = `Score: ${s.correct}`;
   els.nextBtn.disabled = false;
+  persistState();
 }
 
 function nextOrFinish() {
@@ -231,12 +374,13 @@ function nextOrFinish() {
   if (s.index < s.queue.length - 1) {
     s.index++;
     renderCurrentQuestion();
+    persistState();
   } else {
     showResults();
   }
 }
 
-function showResults() {
+function showResults({ suppressSave = false } = {}) {
   const s = state.session;
   els.quiz.hidden = true;
   els.results.hidden = false;
@@ -268,6 +412,44 @@ function showResults() {
           `<div class="review-correct">Correct: ${a.question.answer}. ${escapeHtml(correctTxt)}</div>`);
     els.reviewList.appendChild(li);
   });
+  if (!suppressSave) persistState();
+}
+
+function renderSavedAnswerState() {
+  const s = state.session;
+  const q = s.queue[s.index];
+  const saved = s.answered[s.index];
+  if (!saved || typeof saved.chosen !== "string") {
+    s.answeredCurrent = false;
+    els.nextBtn.disabled = true;
+    return;
+  }
+
+  const chosen = saved.chosen;
+  const correctLetter = q.answer;
+  const isCorrect = chosen === correctLetter;
+
+  const buttons = els.choices.querySelectorAll(".choice");
+  buttons.forEach((b) => {
+    b.disabled = true;
+    const bLetter = b.dataset.letter;
+    if (bLetter === correctLetter) b.classList.add("correct");
+    else if (bLetter === chosen) b.classList.add("incorrect");
+  });
+
+  els.feedback.hidden = false;
+  if (isCorrect) {
+    els.feedback.classList.add("ok");
+    els.feedback.textContent = "Correct.";
+  } else {
+    const answerText = hasOwn(q.choices, correctLetter)
+      ? q.choices[correctLetter]
+      : "(answer missing)";
+    els.feedback.classList.add("bad");
+    els.feedback.textContent =
+      `Incorrect. Correct answer: ${correctLetter}. ${answerText}`;
+  }
+  els.nextBtn.disabled = false;
 }
 
 function goHome() {
@@ -281,6 +463,7 @@ function goHome() {
   document
     .querySelectorAll(".deck-option")
     .forEach((el) => el.classList.remove("selected"));
+  persistState();
 }
 
 function retryMissed() {
@@ -331,8 +514,17 @@ els.homeBtn.addEventListener("click", goHome);
         "No questions found. Run the extraction script first (see README).";
       return;
     }
-    els.bankStatus.textContent = `Loaded ${state.bank.length} questions.`;
     renderDeckPicker();
+    const restored = restorePersistedState();
+    if (restored.sessionRestored) {
+      els.bankStatus.textContent =
+        `Loaded ${state.bank.length} questions. Restored saved progress.`;
+    } else if (restored.deckRestored) {
+      els.bankStatus.textContent =
+        `Loaded ${state.bank.length} questions. Restored deck selection.`;
+    } else {
+      els.bankStatus.textContent = `Loaded ${state.bank.length} questions.`;
+    }
   } catch (err) {
     els.bankStatus.textContent =
       "Failed to load questions. Make sure you started the local server from the project root (see README).";
