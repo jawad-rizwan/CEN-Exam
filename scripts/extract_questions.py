@@ -366,6 +366,35 @@ def classify_and_validate(raw: dict) -> tuple[dict | None, str | None]:
     }, None
 
 
+def normalize_for_dedupe(text: str) -> str:
+    """
+    Normalize text for duplicate detection.
+
+    This is intentionally stricter than display cleanup but still conservative:
+    we collapse formatting noise, punctuation, and comma-separated numbers so
+    repeated questions copied across decks or lightly mangled by PDF extraction
+    collapse to the same key.
+    """
+    text = clean_text(text).casefold()
+    text = text.replace("&", " and ")
+    text = text.replace(",", "")
+    text = re.sub(r"[^a-z0-9]+", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def make_dedupe_key(record: dict) -> tuple[str, tuple[tuple[str, str], ...], str]:
+    """Build a normalized identity for a validated record."""
+    norm_choices = tuple(
+        (letter, normalize_for_dedupe(text))
+        for letter, text in sorted(record["choices"].items())
+    )
+    return (
+        normalize_for_dedupe(record["question"]),
+        norm_choices,
+        record["answer"],
+    )
+
+
 # -------- main pipeline --------
 
 
@@ -381,6 +410,10 @@ def main() -> int:
     skip_log: list[str] = []
     per_source_seen: Counter = Counter()
     per_source_id_counter: dict[str, int] = {}
+    seen_dedupe_keys: dict[
+        tuple[str, tuple[tuple[str, str], ...], str], tuple[str, int | None, str]
+    ] = {}
+    duplicate_skips = 0
 
     files_on_disk = {p.name for p in QUESTIONS_DIR.glob("*.pdf")}
     processed_files: list[str] = []
@@ -425,6 +458,17 @@ def main() -> int:
                 skip_log.append(f"[{filename} Q{raw.get('number')}] {reason}")
                 continue
 
+            dedupe_key = make_dedupe_key(validated)
+            first_seen = seen_dedupe_keys.get(dedupe_key)
+            if first_seen is not None:
+                first_file, first_qnum, first_source = first_seen
+                duplicate_skips += 1
+                skip_log.append(
+                    f"[{filename} Q{raw.get('number')}] duplicate of "
+                    f"[{first_file} Q{first_qnum}] from {first_source}"
+                )
+                continue
+
             per_source_id_counter.setdefault(prefix, 0)
             per_source_id_counter[prefix] += 1
             qid = f"{prefix}-{per_source_id_counter[prefix]:03d}"
@@ -445,6 +489,7 @@ def main() -> int:
             }
             all_records.append(record)
             per_source_counts[source] += 1
+            seen_dedupe_keys[dedupe_key] = (filename, raw.get("number"), source)
 
         for block, n in missing_ctx_counts.items():
             skip_log.append(
@@ -493,6 +538,8 @@ def main() -> int:
     print(f"Total questions seen: {total_seen}")
     print(f"Total kept (valid)  : {total_kept}")
     print(f"Total skipped       : {total_seen - total_kept}")
+    if duplicate_skips:
+        print(f"Skipped duplicates  : {duplicate_skips}")
     if missing_ctx_skips:
         print(
             f"Skipped {missing_ctx_skips} questions due to missing "
